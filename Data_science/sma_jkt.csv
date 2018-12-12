@@ -1,0 +1,490 @@
+npsn,nama_sekolah,alamat,kelurahan,kecamatan,jumlah_siswa,jumlah_guru,kepala_sekolah,telp_sekolah,akreditasi,latitude,longitude
+20100170,SMA Kanisius,Jl. Menteng Raya 64,Kebon Sirih,Menteng,700,44,"J. HERU HENDARTO, SJ",021 3193646,A,-6.185372,106.385101
+20100173,SMA Paskalis,Jl. Ranjau 13,Sumur Batu,Kemayoran,132,11,"Rebertus Hemu, SS",021 4223046,A,-6.161159,106.872818
+20100174,SMA Perg. Nasional,Jl. Cempaka Baru Timur,Sumur Batu,Kemayoran,59,11,,021 97943242,B,-6.170563,106.861786
+20100175,SMA Advent Salemba,Jl Salemba Raya 47,Paseban,S e n e n,140,15,"Lis Indriastuti Hardiningsih,",021 31901286,A,-6.197712,106.850998
+20100177,SMA PGRI 14,Jl. Setia Kawan 3 No. 25,Gambir,Gambir,35,8,ASALTA SEMBIRING,021 63868909,Tidak Terakreditasi,-6.164595,106.801178
+20100179,SMA Santa Paulus,Jl. Setia Kawan Raya 39-41,Gambir,Gambir,53,16,"YUNITA SURBAKTI,S.Pd",021 63861345,B,-6.164335,106.801422
+20100180,SMA Sunda Kelapa,Jl. Taman Sunda Kelapa 16 A,Menteng,Menteng,77,15,Ir. AMINAH,021 3902839,A,-6.201236,106.832047
+20100181,SMA Taman Madya 1,Jl. Sunter Bendungan Jago 11,Serdang,Kemayoran,239,24,Muryanti,021 42872412,A,-6.154990,106.860779
+20100182,SMA Muhammadiyah 2,Jl. Garuda No. 33,Gunung Sahari Selatan,Kemayoran,139,16,"Puji Astuti, S.Pd",021 42881266,A,-6.161700,106.842796
+20100183,SMA Muhammadiyah 16,Jl. Kalibaru Barat No. 52 D,Bungur,S e n e n,122,17,MAKMUN,021 4202952,B,-6.169870,106.846390
+20100184,SMA Muhammadiyah 14,Jl. Danau Limboto No. 2,Bendungan Hilir,Tanah Abang,23,16,"Trisna Embarsyah, S.Pd.",021 5708998,B,-6.208039,106.808128
+20100185,SMA Kartini I,Jl. Kalibaru Timur V No. 1,Serdang,Kemayoran,247,23,"Drs. H. SURADI, MM",021 4263602,A,-6.172263,106.848305
+20100186,SMAK 2 Penabur Jakarta,Jl. Pintu Air Raya 11,Pasar Baru,Sawah Besar,368,34,Boanerges Tiberias,021 3841721,A,-6.166532,106.830910
+20100187,SMA Kristen 3 Penabur,Jl. Gunung Sahari 90a,Gunung Sahari Selatan,Kemayoran,606,41,"Dra. Chrisanty Budi Santoso, Apt.",021 4214883,A,-6.166684,106.839676
+20100188,SMA K. Bethel,Jl.Petamburan IV No.4,Petamburan,Tanah Abang,67,16,"O. Lyanna N.,M.pd",021 53650687,A,-6.198100,106.810997
+20100189,SMA Kristen Kanaan,Jl. Kran Raya No. 7,Gunung Sahari Selatan,Kemayoran,229,18,Indri Astuti S.Pd,021 4208481,A,-6.159574,106.846382
+20100190,SMA Kristen Karunia,Jl. Kartini Raya No. 10 A,Pasar Baru,Sawah Besar,50,21,Yanto Suwendi,021 3841687,A,-6.155400,106.836197
+20100191,SMA Kristen Ketapang 1,Jl. K. H. Zainul Arifin 35,Petojo Utara,Gambir,106,18,VINCENSIA ISNA KUNTARA,021 6322857,A,-6.160697,106.814026
+20100193,SMA Perguruan Ksatriya,Jl. Percetakan Negara D 232,Cempaka Putih Barat,Cempaka Putih,423,41,"DRS. SARTONO, M. SI",021 4256689,A,,
+20100194,SMA Mahatma Gandhi School,JL. TABING BLOK B-16 NO.3,Gunung Sahari Utara,Sawah Besar,175,18,"PRAMESTI SETIORINI, S.Pd",021 6542241,A,-6.153480,106.838127
+20100195,SMA Muhammadiyah 1,Jl. Kramat Raya No. 49,Kramat,S e n e n,284,24,SITI MURSIDAH Dra,021 3101338,A,-6.185379,106.844604
+20100196,SMA Taman Madya 5,Jl. Percetakan Negara VIII/16,Cempaka Putih Barat,Cempaka Putih,52,14,"HABIBURRAHMAN, S.Pd.MM.","021 4245365, 021 42888311",A,-6.192113,106.859894
+20100197,SMA Tarsisius 1,Jl. KH. Hasyim Ashari No. 26,Petojo Utara,Gambir,225,27,Drs. STEPHANUS SUBARNO,021 63854382,A,-6.164929,106.816467
+20100198,SMA Santa Theresia,Jl. Haji Agus Salim No. 75,Gondangdia,Menteng,494,34,"Dra.Godeliva K. Saptariningsih,MPd.",021 3142593,A,-6.189573,106.826012
+20100199,SMA Negeri 68,Jl. Salemba Raya 18,Kenari,S e n e n,867,56,"Asep Kustiana, S.Pd",021 3142929,A,-6.197708,106.850815
+20100200,SMA Negeri 7,Jl. Karet Pasar Baru Barat V,Karet Tengsin,Tanah Abang,624,49,"Drs. E. Awaluddin S., M.Pd.",021 5720934,A,-6.166497,106.819839
+20100201,SMA Negeri 77,Jl. Cempaka Putih Tengah 17,Cempaka Putih Timur,Cempaka Putih,470,42,"GATOT HANDOYO, S.Pd.",021 4243119,A,-6.160353,106.873917
+20100210,SMA Negeri 5,Jl. Raya Sumur Batu,Sumur Batu,Kemayoran,853,47,"Drs. H. Yumari, M.Si",021 4243869,A,-6.158845,106.866791
+20100211,SMA Negeri 4,Jl. Batu No. 3,Gambir,Gambir,450,40,DRS. ADRIANSYAH,021 3843937,A,-6.178838,106.832809
+20100212,SMA Negeri 35,Jl. Mutiara,Karet Tengsin,Tanah Abang,469,42,Dra. Atik Siti Atikah,021 5709328,A,-6.198582,106.815552
+20100213,SMA Triwibawa,Jl. Rajawali Selatan I No.30,Gunung Sahari Utara,Sawah Besar,110,14,"Abdul Haris, SE.",021 6414962,B,-6.146523,106.837769
+20100214,SMA Yapermas,Jl. Anyer No.7,Menteng,Menteng,100,12,Drs. Jangasih S,021 31930583,A,-6.204000,106.844002
+20100215,SMA YP IPPI Petojo,Jl. Petojo Barat III/2,Petojo Utara,Gambir,423,29,"HILDA OCTAVIANI,S.Pd",021 6318984,A,-6.163697,106.811821
+20100216,SMA Negeri 1,Jl. Budi Utomo No. 7,Pasar Baru,Sawah Besar,636,36,"Dra. Mas Ayu Yuliana,M.Pd",021 3865001,A,-6.164364,106.836617
+20100217,SMA Negeri 10,Jl. Mangga Besar XIII,Mangga Dua Selatan,Sawah Besar,517,36,"Drs. Agus Wahyu Sutopo, M.Pd",021 6590192,A,-6.135178,106.826233
+20100218,SMA Negeri 20,Jl. Krekot Bunder III/1 Kel. Pasar Baru,Pasar Baru,Sawah Besar,532,30,"Agnes Sukasni, S.Pd, M.Pd",021 3440021,A,-6.142603,106.831635
+20100219,SMA Negeri 24,Jl. Lapangan Tembak Senayan,Gelora,Tanah Abang,509,37,"Drs. SUNARYANTO, M.Pd",021 5736984,A,-6.195851,106.798676
+20100221,SMA Negeri 25,Jl. AM. Sangaji No. 22-24,Gambir,Gambir,533,36,Drs. Ahmad Paisal MM.,021 6331921,A,-6.149430,106.811035
+20100223,SMA Negeri 27,Jl. Mardani Raya,Johar Baru,Johar Baru,478,41,"ZULHAMSHAH, S.Pd, M.Si.",021 4245969,A,-6.182500,106.861298
+20100224,SMA Negeri 30,Jl. Jend. A. Yani,Cempaka Putih Timur,Cempaka Putih,654,53,"Drs. DWI ARSONO, M.Si",021 4244015,A,-6.124170,106.874786
+20100483,SMA 3 PSKD,Jl. Kwini I No. 1,Senen,S e n e n,35,25,,021 3456193,A,-6.180654,106.838379
+20100486,SMA Bunda Mulia,Jl. AM. Sangaji 20,Petojo Utara,Gambir,321,19,"PASIANUS BASALI DAELI, S.Pd",021 6329005,A,-6.163604,106.812454
+20100487,SMA Cempaka,Jl. Cempaka Putih Barat XXI,Cempaka Putih Barat,Cempaka Putih,0,22,Dra. EMNI YUSTRI,021 4204285,B,-6.178611,106.863922
+20100488,SMA Dharma Bakti,Jl. Mardani Raya No. 7,Cempaka Putih Barat,Cempaka Putih,1,11,Drs. SOEJITNO,021 4204336,B,-6.186516,106.863182
+20100489,SMA Fransiskus 1,Jl. Kramat Raya 67,Kramat,S e n e n,60,22,MARSUDIN F. MALAU,021 3909254,A,-6.186638,106.844254
+20100490,SMA PSKD 1,Jl. Diponegoro No. 80,Kenari,S e n e n,101,24,"YOHANNES P.SIAGIAN,S.Psi.MM.MBA",021 3904418,A,-6.201397,106.841988
+20100505,SMA Islam Al Jihad,Jl. Kramat Jaya Baru,Johar Baru,Johar Baru,49,16,"ABDUL HALIK,S.Pd",021 4258451,B,-6.185635,106.851807
+20100599,SMA Gandhi Ancol,Jl. Pangandaran IX Blok B 4 No. 1,Ancol,Pademangan,201,33,Drs. Ketut Suarma,021 6905768,A,-6.123298,106.822403
+20100600,SMA Islam Al Azhar Kelapa Gading,Jl. Bulevar Timur,Pegangsaan Dua,Kelapa Gading,250,29,"Drs.H.Dwiyono Yulianto Prayitno, M.M.",021 4532440,A,-6.163638,106.910133
+20100601,SMA Kristen 5 BPK Penabur,Jl. Hibrida Raya AQ-3 Kelapa Gading Permai,Kelapa Gading Barat,Kelapa Gading,785,67,"Dra. Duma M.S. Hutahaean, M.M.",021 4515673,A,-6.147488,106.908257
+20100603,SMA Kristen Yusuf,Jl. Arwana II No. 16 Jembatan Dua,Pejagalan,Penjaringan,261,20,VENDY,021 6693111,A,-6.141484,106.794708
+20100604,SMA Mahatma Gading,Jl. Boulevard Bukit Gading Raya Villa Gading Indah,Kelapa Gading Barat,Kelapa Gading,164,31,"Dra.Susy Poernasusila, MM",021 45843591,A,-6.161327,106.894310
+20100605,SMA Methodist,Jl. Terusan Bandengan Utara No.91 AY,Pluit,Penjaringan,265,18,"Drs. Menason Setiawan, M.Pd.",021 6620212,A,-6.135980,106.790436
+20100606,SMA Mutiara I,Jl. Komp. Yos Sudarso II/19,Kebon Bawang,Tanjung Priok,64,26,"Drs. H.Rumalutur Idris, BSc,MM",021 4352520,B,-6.111216,106.892548
+20100607,SMA Permai,Jl. Pluit Karang Barat Blok O-VI No. 1,Pluit,Penjaringan,348,27,Drs. Robertus Kusnandar,021 6617515,A,-6.121052,106.774132
+20100608,SMA PGRI 12 Jakarta,Jl. Tabah I No. 5 Komp. TNI AL Kodamar III,Kelapa Gading Barat,Kelapa Gading,86,23,"SITI SUHAEDAH, MM",021 4529428,A,-6.163339,106.885109
+20100610,SMA Pusaka Abadi,Jl. V No. 28 Teluk Gong,Pluit,Penjaringan,158,20,Ir. ATIK WIDANARTI,021 6601644,A,-6.139305,106.784668
+20100611,SMA Pusaka Nusantara,Jl. Edam 2 No. 17,Tanjung Priok,Tanjung Priok,29,12,"Hj. Maya Sri Astuti, S.Pd.",021 4301552,B,-6.111048,106.891861
+20100612,SMA St. Nicholas,Jl. Pantai Indah Utara Blok S No. 8 PIK,Kapuk Muara,Penjaringan,118,11,"SOLEMAN PEPANG, S.Si",021 55965755,A,-6.139999,106.775726
+20100613,SMA Tarakanita 2,Jl. Pluit Permai Dalam I/10,Pluit,Penjaringan,305,35,"FRANSISCUS ASISI SUYONO, SFK",021 6611478,A,-6.114635,106.792068
+20100614,SMA Fons Vitae 2,Jl. Kramat Jaya No. 1 B,Lagoa,K o j a,138,17,"SR. M. Petra, OSF, M.Pd",021 43913561,A,-6.114343,106.916794
+20100616,SMA Don Bosco I,Jl. Raya Boulevar Timur Kelapa Gading,Kelapa Gading Timur,Kelapa Gading,229,23,CEB. SETYONINGSIH,021 4528509,A,-6.265490,106.914291
+20100628,SMA Budi Agung,Jl. Terusan Bandengan Utara No. 95 Blok F.2-12,Penjaringan,Penjaringan,232,14,Drs. Abdullah Siroj,021 6606420,A,-6.134670,106.788101
+20100629,SMA Bunga Hati Bangsa,Jl. Villa Kapuk Indah Blok GI,Kapuk Muara,Penjaringan,76,13,MUSRINGUDIN,021 5414529,B,-6.137856,106.763725
+20100630,SMA Dharma Budhi Bhakti,Jl. Agung Tengah 7 No. 1 Blok i-6,Sunter Agung,Tanjung Priok,90,21,"Simon Petrus L, S.Pd, MM.",021 6513830,A,-6.800000,106.519997
+20100631,SMA Diakonia,Jl. Pluit Utara Raya No. 2,Pluit,Penjaringan,65,9,Maria Aloysia Frieda Pramono,"021 6693742, 021 6610519",A,-6.112159,106.789429
+20100632,SMA Tunas Gading,Jl. Gading Putih Raya P2/23,Kelapa Gading Timur,Kelapa Gading,52,13,"Simson Sipayung, ST.",021 4520726,B,-6.100000,106.540001
+20100778,SMA Tunas Karya,Jl. Pelepah Kuning III Kelapa Gading Permai,Kelapa Gading Timur,Kelapa Gading,0,18,,021 4520738,A,-6.160925,106.903465
+20100779,SMA Negeri 75,Jl. Tipar Cakung,Semper Barat,Cilincing,762,41,"Drs. Agus Jaya, M. Biormed",021 4402862,A,-6.152633,106.926872
+20100780,SMA Negeri 80,Jl. Sunter Karya Selatan V,Sunter Agung,Tanjung Priok,787,42,,021 64716130,A,-6.227593,106.931595
+20100781,SMA Negeri 83,Jl. Tipar Cakung,Sukapura,Cilincing,0,41,,021 4403010,A,-6.142944,106.927132
+20100782,SMA Negeri 92,Jalan Asrama Pemadam Kebakaran,Semper Barat,Cilincing,522,47,Drs. RASMADI,021 44832842,A,-6.099591,106.926392
+20100795,SMA Negeri 73,Jl. Raya Cakung Cilincing,Semper Timur,Cilincing,478,42,"Drs.Ridwan Taopik, M.Pd",021 4401622,A,-6.111403,106.924530
+20100796,SMA Negeri 72,Jl. Prihatin Komp. TNI AL,Kelapa Gading Barat,Kelapa Gading,756,46,HENI RUSTINI,021 4502584,A,-6.165924,106.882843
+20100797,SMA Negeri 52,Jl. Raya Tugu Semper,Semper Barat,Cilincing,643,48,"ALI MUKODAS,S.Pd, M.Si.",021 4405378,A,-6.122282,106.923836
+20100799,SMA Yakobus,"Jl. Pegangsaan II Km. 3,5",Pegangsaan Dua,Kelapa Gading,538,44,"Drs. Johannes Romiyono, M. Pd",021 46826446,A,-6.153363,106.915459
+20100800,SMA YASPI,Jl. Dinas Kebersihan DKI,Semper Barat,Cilincing,50,14,"FAHRUDDIN PARLUHUTAN, MA.Pd",021 4415755,B,-6.133777,106.926079
+20100801,SMA Yusha,Jl. Mawar Luar No.1,Tugu Selatan,K o j a,0,12,"Sainudin, M.Pd",021 4308513,B,-6.119435,106.908455
+20100802,SMA Negeri 110,Jl. Bendungan Melayu,Tugu Selatan,K o j a,809,51,"ROMLAH, S.Pd., M.M.",021 4350059,A,-6.133595,106.904053
+20100803,SMA Negeri 111,Jl. Bandengan Utara No. 80,Penjaringan,Penjaringan,533,33,Drs. ISDIANTORO,021 6611703,A,-6.127583,106.793236
+20100804,SMA Negeri 114,Jl. Pedongkelan No.25 Cilincing,Cilincing,Cilincing,523,30,DRS.SUDOYO,021 4404611,A,-6.088325,106.913399
+20100805,SMA Negeri 115,Jl. Rorotan X,Rorotan,Cilincing,426,31,,021 44850555,A,-6.150966,106.958832
+20100806,SMA Negeri 13,Jl. Seroja No. 1,Rawa Badak Utara,K o j a,570,50,DRS. JANPIKTOR PASARIBU,021 4303676,A,-6.100956,106.897552
+20100807,SMA Negeri 15,Jl. Agung Utara STS Blok A,Sunter Agung,Tanjung Priok,240,36,Dwi Priyo Eko Santoso Drs.,021 6452717,A,-6.120073,106.863907
+20100809,SMA Negeri 18,Jl. Warakas I,Warakas,Tanjung Priok,586,43,"Drs.NASIB JOKO UTOMO,MM",021 4353561,A,-6.099591,106.883133
+20100810,SMA Negeri 40,Jl. Budi Mulia Raya,Pademangan Barat,Pademangan,694,36,Drs. Bahdar,021 6402464,A,-6.128490,106.840858
+20100811,SMA Negeri 41,Jl. Laks. R. E. Martadinata,Sunter Agung,Tanjung Priok,205,39,"Emanuel Hari Wahyana, Drs., MM",021 6518840,A,-6.112307,106.873100
+20100812,SMA Negeri 45,Jl. Perintis Kemerdekaan,Kelapa Gading Timur,Kelapa Gading,855,52,"Drs. TULUS WINARDI, SH, M.Si.",021 4527345,A,-6.167692,106.904671
+20101173,SMA I Barunawati,Jl. X.III Aipda Ks.Tubun II/III,Slipi,Palmerah,165,18,Dra Tri Ujiati,021 5303083,A,-6.195850,106.803802
+20101301,SMA Regina Pacis,Jl. Palmerah Utara I,Palmerah,Palmerah,339,24,"Agustinus Totowijayadi,S.Pd,.M",021 5481662,A,-6.200502,106.796799
+20101302,SMA Kristen Ketapang II,Jl. Raya Pos Pengumben No.30,Kedoya Utara,Kebon Jeruk,58,16,Naniek Setyorini Tyasnindarti,0813 10031286,A,-6.178270,106.766502
+20101303,SMA Kemurnian,Jl. Kemurnian V No.209,Glodok,Taman Sari,24,11,Nurhayati Rasjid,021 6335236,A,-6.146598,106.813232
+20101304,SMA Kristen Almasih,Jl. Kusuma V Blok E 1 No. 1,Wijaya Kusuma,Grogol Petamburan,71,9,"Daniel Sutadi. S.E., S.Th, M.M., M.M.",021 5645127,B,-6.144811,106.777290
+20101305,SMA Kristen 4 Bpk Penabur,Jl. Surya Sarana Surya Gardenia,Kedoya Utara,Kebon Jeruk,286,39,"Drs. Lo Sing Kim, M.M.",021 5806750,A,-6.174910,106.762581
+20101306,SMA K 1 Penabur,Jl. Tanjung Duren Raya No.4,Tanjung Duren Utara,Grogol Petamburan,1,72,"Endang Setyowati, MM","021 5666962, 021 5666963",A,-6.173593,106.786209
+20101307,SMA Kemurnian II,Jl. Green Ville Blok O/209,Duri Kepa,Kebon Jeruk,245,16,"J.I. Aang Nasrudin, S.Pd","021 5605556, 021 5605547",A,-6.168410,106.778931
+20101311,SMA Katolik Ricci,Jl. Kemenangan III/47,Glodok,Taman Sari,274,35,Agnes Delviana Simangunsong,021 6392495,A,-6.142681,106.812012
+20101313,SMA Kristen Samaria Kudus,Jl. Raya Meruya Utara No. 17,Meruya Utara,Kembangan,69,14,FX. ADI SUCIPTO,021 5850208,A,-6.195965,106.730812
+20101314,SMA Lamaholot,Jl. Jagung Raya Bojong Indah,Rawa Buaya,Cengkareng,63,13,"Neu Matheus,S.Pd",021 58356747,B,-6.163400,106.736816
+20101318,SMA Providentia,Jl. Kedoya Raya No.35,Kedoya Utara,Kebon Jeruk,25,13,Drs Y.S. Ary Sunarto,021 5652477,A,-6.166198,106.763824
+20101322,SMA Pelita II,"Jl. Macan No.23-29, Daan Mogot",Duri Kepa,Kebon Jeruk,152,14,"Ely, S.Pd., M.M.",021 5661707,A,-6.165233,106.771400
+20101323,SMA Padindi,Jl. Prepedan No. 38,Kamal,Kalideres,67,13,Drs. Tekad Susilo,021 5561438,B,-6.116134,106.706505
+20101324,SMA Katolik Notre Dame,Jl. Puri Kembangan Barat Raya,Kembangan Selatan,Kembangan,220,22,"Edi Sri Widodo, S.Pd",021 5826335,A,-6.188430,106.742805
+20101325,SMA Muhammadiyah 24,Jl. Dr. Susilo I,Grogol,Grogol Petamburan,0,8,"Ahmad, S.PdI",021 5674878,B,-6.167032,106.792282
+20101326,SMA Muhammadiyah 13,Jl. Gelong Baru No.23 A,Tomang,Grogol Petamburan,68,15,H. Asari. S.Pd.,021 5603724,A,-6.172202,106.800682
+20101327,SMA Kalam Kudus III,Jl. Kompleks Green Garden blok B4 no.1&20,Kedoya Utara,Kebon Jeruk,37,16,"Dra. M Yanfi Yusniar, M.Pd",021 5827066,A,-6.160955,106.758766
+20101329,SMA Cengkareng 1,Jl. Bambu Larangan No.67,Cengkareng Barat,Cengkareng,333,37,"Drs.Mulyanto,MM",021 5418110,A,-6.142632,106.718071
+20101330,SMA Candra Naya,Jl. Jembatan Besi 2 No. 26,Jembatan Besi,Tambora,197,20,"Titiek Evelyn Mangowal, S.T.","021 63860752, 021 63860753",A,-6.149538,106.797493
+20101331,SMA Cakra Buana,Jl. Kompleks Kebersihan 17,Tegal Alur,Kalideres,0,12,Surahman SPd.,021 55951441,B,-6.127812,106.719528
+20101332,SMA Bunda Hati Kudus,Jl. Rahayu No 22,Jelambar,Grogol Petamburan,364,27,Sr. M. Goretti Indra Sartika P,021 5686329,A,-6.143286,106.779442
+20101334,SMA Budi Murni 2,Jl. Puri Kembangan No.2,Kedoya Selatan,Kebon Jeruk,261,17,"BUDIMAN SIHOMBING, SE,MM",021 5804027,A,-6.183142,106.752167
+20101337,SMA Bhineka Tunggal Ika,Jl. KH. M. Mansyur No.222 A,Tanah Sareal,Tambora,154,25,"Suharititi, Dra","021 6310070, 021 6340678",A,-6.150791,106.807816
+20101338,SMA Baptis Elim,Jl. Dr. Susilo 1 No. 388,Grogol,Grogol Petamburan,26,8,Suharja,021 5683022,A,-6.165932,106.791580
+20101339,SMA Baptis Cengkareng Indah,JL. PERUM CENGKARENG INDAH,Kapuk,Cengkareng,53,14,"Natalina, S.Th",021 5450855,B,-6.143810,106.747322
+20101342,SMA Damai,Jl. Duri Selatan V No. 29,Duri Selatan,Tambora,89,19,"Bernardus Bubun Beda, SE","021 63855240, 021 6314637",A,-6.160278,106.805138
+20101343,SMA Dhammasavana,Jl. Jembatan Padamulya VI No. 176 B,Angke,Tambora,92,12,"Akhmad Chumaedi,S.Pd","021 6300967, 021 6348144",A,-6.144840,106.791382
+20101346,SMA Kristen Pancaran Berkat,Jl. Setia Jaya No. 100,Jelambar Baru,Grogol Petamburan,85,20,"AGUSTINA FRIDA SANGIAN,S.Th",021 5638992,B,-6.148200,106.787003
+20101348,SMA Islam Tambora,Jl. Tambora Mesjid No. 11,Tambora,Tambora,0,15,Drs.Slamet Riyadi,021 6328948,B,-6.145329,106.809967
+20101349,SMA IP 'Yakin',Jl. Bangun Nusa Raya No. 10,Cengkareng Timur,Cengkareng,256,26,Daswati S. Pd,021 5441058,B,-6.149755,106.741409
+20101350,SMA Harapan Jaya,Jl. Daan Mogot Km 13,Cengkareng Timur,Cengkareng,113,18,"Junaidi, S.Pd",021 5401920,B,-6.153861,106.734215
+20101351,SMA Galatia 2,Jl. Merpati Raya No 1,Wijaya Kusuma,Grogol Petamburan,14,16,ARIARTO NUGRAHA,021 5605122,B,-6.155959,106.775955
+20101352,SMA Galatia 3,Jl. Bambu Larangan No. 57,Pegadungan,Kalideres,56,14,"CHRISTIAN GUNAWAN, SH",021 5404554,A,-6.140979,106.716805
+20101353,SMA Fatahillah,Jl. Dr. Semeru Raya No 1,Grogol,Grogol Petamburan,94,16,Zukarnaini. S.Pd.,021 5602444,B,-6.158836,106.796257
+20101354,SMA Fajrul Islam,Jl. Tanjung Pura V,Pegadungan,Kalideres,0,17,"Otong Bukhori, SPd.",021 5459809,B,-6.129069,106.695068
+20101467,SMA San Marino,Jl. Citra Garden I Blok B I/1,Kalideres,Kalideres,212,20,Dra. Etty Sutanto,021 6194966,A,-6.150454,106.693604
+20101583,SMA Negeri 96,Jl. Jati Raya No.40,Cengkareng Timur,Cengkareng,746,44,,021 5403058,A,-6.147083,106.739555
+20101584,SMA Negeri 95,Jl. Satu Maret No.49,Pegadungan,Kalideres,634,49,Drs. Moch Endang Supardi,021 54371930,A,-6.108467,106.705292
+20101585,SMA Negeri 94,Jl. Semanan Raya,Semanan,Kalideres,431,39,"Nengsih, S.Pd.",021 5417052,A,-6.167726,106.702301
+20101586,SMA Negeri 85,Jl. Srengseng Raya,Srengseng,Kembangan,642,40,Drs. Mukhlis,021 5840921,A,-6.204256,106.756889
+20101587,SMA Negeri 84,Jl. Peta Barat No.42,Kalideres,Kalideres,755,49,Drs. Surana,021 5402584,A,-6.145048,106.704605
+20101588,SMA Negeri 78,Jl. Bhakti VI/1 Kemanggisan,Kemanggisan,Palmerah,991,63,"Rita Hastuti, M.Pd",021 5482914,A,-6.191491,106.782722
+20101589,SMA Negeri 65,Jl. Raya Panjang,Kelapa Dua,Kebon Jeruk,431,37,"Hj. Umairoh, S.Pd. MM",021 5492759,A,-6.190390,106.767776
+20101604,SMA Negeri 57,Jl. Raya Kedoya,Kedoya Utara,Kebon Jeruk,639,43,Nana Juhana,021 5801665,A,-6.152843,106.755417
+20101605,SMA Negeri 56,Jl. Kamal Raya Tegal Alur,Tegal Alur,Kalideres,681,44,"Adil Minita Ginting, M.Si",021 5550938,A,-6.098908,106.717361
+20101606,SMA Tunas Harapan,Jl. Kompleks BNI 46 Pesing,Wijaya Kusuma,Grogol Petamburan,256,18,"Drs. Heri Handoko, MM",021 5660066,A,-6.159841,106.771591
+20101607,SMA Trinitas,Jl. Pakis Raya Bojong Indah,Rawa Buaya,Cengkareng,62,14,YANTI OCTAVIA ARUANS.Pd.,021 5807742,A,-6.165630,106.741417
+20101608,SMA Tri Ratna,Jl. Talib I No.35-37,Krukut,Taman Sari,48,17,Ir.Susi Djuita Martani,021 63854385,A,-6.158580,106.815208
+20101610,SMA Tarsisius 2,Jl. Batu Sari Raya No.12,Kebon Jeruk,Kebon Jeruk,196,32,Yanuarius Suharjo,"021 5302502, 021 5363219",A,-6.199612,106.781631
+20101611,SMA Sentosa,Jl. Madu No.276,Mangga Besar,Taman Sari,16,4,"Parlindungan,S.Pd","021 62317069, 021 6290745",B,-6.143966,106.820190
+20101613,SMA Santo Leo II,Jl. Kosambi Selatan Raya No.1,Duri Kosambi,Cengkareng,143,20,"Isidora Rampiyu, S. Pd",021 5457223,A,-6.102600,106.425400
+20101614,SMA Santo Leo.,Jl. Mangga Besar Raya No.43,Tangki,Taman Sari,53,17,Linda Octaviany K,021 6398849,A,-6.141798,106.817680
+20101615,SMA Santo Kristoforus 2,Perum Taman Palem LestariI Blok A-18,Cengkareng Barat,Cengkareng,346,29,ANDREAS TRI SANJATA CAHYA SUMA,021 55954553,A,-6.131202,106.717545
+20101616,SMA St. Kristoforus 1,Jl. Rahayu No. 1a,Jelambar,Grogol Petamburan,91,14,Tadeus Rangku. SS.,"021 5659827, 021 56960276",A,-6.165019,106.785347
+20101617,SMA Tunas Indonesia,JL. Duri Semanan,Semanan,Kalideres,46,9,,021 93170602,C,-6.162670,106.713692
+20101618,SMA Vianney,Jl. Pondok Randu No.98,Rawa Buaya,Cengkareng,161,25,Supriyadi,021 5814170,A,-6.171398,106.730087
+20101619,SMA Yadika 1,Jl. Tanjung Duren Barat IV/8,Tanjung Duren Utara,Grogol Petamburan,358,23,Drs. Manangap Sitorus,021 5672649,A,-6.177924,106.781487
+20101620,SMA Negeri 33,Jl. Kamal Raya No. 54,Cengkareng Barat,Cengkareng,0,45,"Cedarkuine, M.Pd",021 6191043,A,-6.144139,106.726486
+20101621,SMA Negeri 23,Jl. Mandala Utara,Tomang,Grogol Petamburan,656,40,"H. Ahmad Safari, S.Pd, M.Si",021 5672730,A,-6.172499,106.797691
+20101622,SMA Negeri 2,Jl. Gajah Mada 175,Keagungan,Taman Sari,494,38,"Drs. H. Maknawiyah, M. Si",021 6294318,A,-6.148692,106.815796
+20101623,SMA Negeri 19,Jl. Perniagaan 31,Tambora,Tambora,588,40,"Aidarus, M.Si",021 6904454,B,-6.141806,106.810036
+20101624,SMA Negeri 17,Jl. Mangga Besar IV / I No.27,Taman Sari,Taman Sari,684,39,"YUNIDAR, M.Pd",021 6392046,A,-6.138507,106.822708
+20101625,SMA Negeri 16,Jl. Belibis Terusan No. 16,Palmerah,Palmerah,751,39,"Drs. Sariaman Sitanggang, MM.",021 5320137,A,-6.182881,106.793182
+20101626,SMA Negeri 112,Jl. Sanggrahan,Meruya Utara,Kembangan,243,52,NOVIOLALENI,021 5850695,A,-6.182198,106.746201
+20101627,SMA Negeri 101,Jl. Kompleks Joglo Baru,Joglo,Kembangan,822,55,IIS KURNIASIH,021 5847332,A,-6.220937,106.743484
+20101628,SMA YP BDN,Jl. Kompleks Bank Mandiri Pesing,Wijaya Kusuma,Grogol Petamburan,107,10,"Sarmidawati Purba. S.Pd,",021 5686202,A,-6.157855,106.771294
+20101629,SMA Yadika 5,Jl. Joglo Raya No.190,Joglo,Kembangan,368,34,"Pinondang Sitorus, M.Pd",021 5844058,A,-6.223010,106.720383
+20101630,SMA Yadika II,Jl. Kamal Raya No.42,Tegal Alur,Kalideres,333,26,Drs.Amudi Lumbantoruan,021 5550795,A,,
+20101631,SMA Santo Andreas,Jl. Komplek Green Garden J5/1,Kedoya Utara,Kebon Jeruk,51,14,Yuliana Rahayu SPd,021 5807672,A,-6.162469,106.765762
+20101833,SMA Al Huda Cengkareng,Jl. Utama Raya No.2,Cengkareng Barat,Cengkareng,957,46,"Absori, M. Pd","021 6198595, 021 5441722",A,-6.150258,106.721825
+20102193,SMA Negeri 47,Jl. Delman Utama I,Kebayoran Lama Utara,Kebayoran Lama,864,55,Drs. H. marti Budiono,021 7260904,A,-6.247169,106.773109
+20102210,SMA Negeri 46,Jl. Mesjid Darussalam,Gandaria Utara,Kebayoran Baru,797,52,"WANITO HANDOYO,SPd.MPd",021 7246695,A,-6.258005,106.794807
+20102211,SMA Negeri 43,Jl. Minangkabau Dalam,Menteng Atas,Setia Budi,623,35,"Dra. Rusmala Nainggolan, M.Pd",021 8297076,A,-6.216263,106.841652
+20102212,SMA Negeri 38,Jl. Raya Lenteng Agung,Lenteng Agung,Jagakarsa,754,45,"Dra. SRI RAHMINA UTAMI, Kons",021 7270865,A,-6.318370,106.834976
+20102213,SMA Negeri 37,Jl. H No.40 Kebon Baru,Kebon Baru,T e b e t,502,45,"Drs Abdul Gani, MM",021 8296058,A,-6.231688,106.859108
+20102214,SMA Negeri 34,Jl. Margasatwa Raya No. 1,Pondok Labu,Cilandak,576,56,"Taga Radja Gah, M.Pd",021 7690064,A,-6.313400,106.794800
+20102215,SMA Negeri 32,Jl. Panjang Komp. Sekneg Baru Cidodol,Grogol Selatan,Kebayoran Lama,570,46,"Sugiyanti, S.Pd",021 7395532,A,-6.214111,106.784851
+20102216,SMA Negeri 3,Jl. Setiabudi II,Setia Budi,Setia Budi,990,50,"Dra. Ratna Budiarti, M. Biomed",021 5254663,A,-6.181516,106.797882
+20102217,SMA Negeri 29,Jl. Kramat No.6,Kebayoran Lama Utara,Kebayoran Lama,237,52,Dra. CAROL TITALEY,021 7395831,A,-6.214282,106.784256
+20102218,SMA Negeri 26,Jl. Tebet Barat IV,Tebet Barat,T e b e t,515,33,"Drs. Sucipto, M.Si",021 8294645,A,-6.233409,106.848518
+20102219,SMA Negeri 109,Jl. Gardu No. 31,Srengseng Sawah,Jagakarsa,753,48,"TUTI MARYATI, M.Pd.",021 7271116,A,-6.334408,106.837524
+20102230,SMA Negeri 108,Jl. Kesadaran Ulujami Raya,Pesanggrahan,Pesanggrahan,545,36,"SETIAWATI, M.Pd",021 7376876,A,-6.239197,106.782593
+20102231,SMAK Tirta Marta BPK Penabur,Jl. Sekolah Kencana IV,Pondok Pinang,Kebayoran Lama,0,26,Dra. Kristiena Ekowati,021 7656615,A,-6.284602,106.788078
+20102562,SMA Negeri 97,Jl. Brigif 2,Ciganjur,Jagakarsa,625,70,"ARIS GUNANDAR, DRS, MM",021 7270960,A,-6.323488,106.804169
+20102563,SMA Negeri 90,Jl. Sabar Petukangan,Petukangan Selatan,Pesanggrahan,1003,63,Dra. MAIMUNAH,021 7341866,A,-6.239847,106.751930
+20102564,SMA Negeri 87,Jl. Mawar II Bintaro,Pesanggrahan,Pesanggrahan,465,45,Drs. Waridin,021 73881969,A,-6.286452,106.761200
+20102565,SMA Negeri 86,Jl. Bintaro Permai IV No. 36,Bintaro,Pesanggrahan,640,49,Suharti Latifah,021 7341362,A,-6.262228,106.761284
+20102566,SMA Negeri 82,Jl. Daha II/15a,Selong,Kebayoran Baru,594,37,,021 7246413,A,-6.220084,106.802162
+20102568,SMA Negeri 8,Jl. Taman Bukitduri,Bukit Duri,T e b e t,1046,58,AGUSMAN ANWAR,021 8295455,A,-6.217647,106.859200
+20102569,SMA Negeri 74,Jl. Dharma Putra XI,Kebayoran Lama Selatan,Kebayoran Lama,733,32,"Dra. Markorijasti, M.Si.",021 7260377,A,-6.250452,106.785881
+20102570,SMA Negeri 70,Jl. Bulungan Blok C,Kramat Pela,Kebayoran Baru,706,51,JAYATIN. S.Pd.,021 7222667,A,-6.241720,106.796951
+20102571,SMA Negeri 66,Jl. Bango III,Pondok Labu,Cilandak,504,49,KUSNYOTO,021 7691403,A,-6.306600,106.805000
+20102572,SMA Negeri 63,Jl. AMD Manunggal V/57,Petukangan Utara,Pesanggrahan,641,42,"Dr. Saryono, M.Si",021 7354473,A,-6.228729,106.749008
+20102573,SMA Negeri 60,Jl. Kemang Timur I No.6,Bangka,Mampang Prapatan,564,46,"Drs. SUGIYONO, M.Pd, M.Si",021 7992054,A,-6.237490,106.826141
+20102574,SMA Negeri 6,Jl. Mahakam I/2 Blok C,Kramat Pela,Kebayoran Baru,633,60,Nurhayati,"021 7208762, 021 7211067",A,-6.217695,106.800735
+20102575,SMA Negeri 55,Jl. Minyak Raya,Duren Tiga,Pancoran,639,44,,021 7996120,A,-6.247558,106.827766
+20102576,SMA Negeri Ragunan Jakarta,Komplek Gelora Ragunan,Ragunan,Pasar Minggu,0,20,"DRS. H. SUHARSONO, MM",021 7801662,A,-6.292435,106.828598
+20102592,SMA Negeri 49,Jl. Pepaya No. 9,Jagakarsa,Jagakarsa,430,47,RACHMAT ABDUS SYUKUR,021 7270167,A,-6.324615,106.819748
+20103166,SMA Perguruan Rakyat 2,Jl. AD. Lampiri Raya,Pondok Kelapa,Duren Sawit,274,34,NASRUL NARUN,021 8617241,A,-6.239645,106.929695
+20103167,SMA Perguruan Rakyat 3,Jl. Pahlawan Revolusi No. 12,Pondok Bambu,Duren Sawit,194,18,"ENNI, S.Pd.",021 8612612,A,-6.228403,106.898491
+20103169,SMA PGRI 1,Jl. Cipinang Muara I,Pondok Bambu,Duren Sawit,11,8,Ir. LINDA AGUSTARINA,021 86610048,B,-6.228540,106.890923
+20103170,SMA PGRI 10 Jakarta,Jl. Rawa Kuning Gg. Mushollah Al Ikhsan No. 119,Pulo Gebang,Cakung,27,10,SAUR HUTABARAT S.PD,021 4801932,B,-6.212807,106.958282
+20103171,SMA PGRI 24,Jl. SMP 157 No. 33,Lubang Buaya,Cipayung,207,29,"Drs.Syamsul Hadri,M.M",021 87799860,B,-6.295349,106.901901
+20103173,SMA Pembangunan III YPI,Jl. Raya Bekasi Km 18,Jatinegara,Cakung,42,18,"H.MUHAMMAD SALEH Dj, Bc Hk",021 46835739,B,-6.197750,106.905235
+20103174,SMA Pelita Tiga,Jln. Rawa Jaya I No. 43,Pisangan Timur,Pulo Gadung,284,23,"Marjono, S.Pd",021 4758953,A,-6.205758,106.874207
+20103176,SMA Pangudi Rahayu,"Jl. Raya Bogor Km. 24,5",Cijantung,Pasar Rebo,62,16,YOSEPH K. SOFYANTO,021 87798114,B,-6.319949,106.863731
+20103178,SMA Nurul Huda,Jl. Tipar Cakung Cakung Barat,Cakung Barat,Cakung,27,9,"DONNY KUSWARA,SIp","021 46824921, 021 46824690",B,-6.174395,106.938293
+20103179,SMA Muhammadiyah 4,Jl. Dewi Sartika No.316a,Cawang,Kramat Jati,555,27,Drs. Ahmad Arif,021 80873736,A,-6.249500,106.866302
+20103180,SMA Muhammadiyah 23,Jl. Delima II Blok C Perumnas Klender,Malaka Sari,Duren Sawit,473,28,Ahmad Akhyar. SE,021 8623414,A,-6.219309,106.928642
+20103181,SMA Muhammadiyah 12,Jl. KH. Ahmad Dahlan No. 20,Kayu Manis,Matraman,187,24,SUHAIMI,021 8583014,A,-6.208618,106.863022
+20103182,SMA PGRI 4 Jakarta,Jl. Raya Cipayung No. 8,Cipayung,Cipayung,306,26,"Ade Syamsudin, S.Pd",021 8441535,A,-6.332425,106.891998
+20103183,SMA PKP,"Jl. Raya PKP, Kelapa Dua Wetan",Ciracas,Ciracas,388,45,"Drs. YAYAT WAHYAT HERIANTO, MM",021 8720627,A,-6.339942,106.888016
+20103184,SMA PRIMA NUSANTARA,JL. PANGLIMA POLIM II/51 A,Pondok Kopi,Duren Sawit,0,13,,021 8602231,A,,
+20103185,SMA Wijayakusuma,Jl. Mujahidin No. 17A,Rambutan,Ciracas,257,22,Drs. SUTOPO,021 8416056,A,-6.302989,106.872482
+20103186,SMA Widya Manggala,Jl. Mujahidin Rt. 5/2 No. 17,Rambutan,Ciracas,59,17,"M.FAUZI RAMDHAN,MM",021 8403710,B,-6.295165,106.871162
+20103187,SMA Villa Mas,Jl. Kayu Putih Utara III C,Kayu Putih,Pulo Gadung,30,7,"ABDUL WAHAB, S.Ag",021 47883820,B,-6.181191,106.897079
+20103189,SMA Uswatun Hasanah,Jl. Depnaker No.2,Pinang Ranti,Makasar,78,19,"Jalaluddin, M.Si",021 8001152,A,-6.285273,106.882149
+20103190,SMA Tunas Markatin,Jl. Waru No. 20B,Rawamangun,Pulo Gadung,127,17,,021 4707917,B,-6.195977,106.888222
+20103192,SMA Teladan I,Jl. Madrasah No. 49,Susukan,Ciracas,146,21,"SYAFRIZAL, S.Pd",021 87797748,A,-6.305786,106.867828
+20103194,SMA St. Alexius,Jl. Amal No. 2,Pondok Bambu,Duren Sawit,0,8,Drs. MARSUM. M.Pd,021 8624971,B,-6.226805,106.899330
+20103195,SMA Sapta Karisma,Jl. Raya Pulogebang No.99 ( Thn 2010 hanya kls III,Pulo Gebang,Cakung,36,13,Mulyadi,021 4808048,B,,
+20103196,SMA Santo Yoseph,Perumahan Metland Menteng Kav F 4,Ujung Menteng,Cakung,442,23,"DRS. SUSIANTARA, MM","021 98127859, 021 46836922",A,-6.181600,106.969810
+20103197,SMA Santo Antonius,Jl. DI. Panjaitan Kav. 46,Rawa Bunga,Jatinegara,208,23,"Markus Tukiman, SCJ, MPd",021 8564968,A,,
+20103198,SMA Santika,Jl. Bambu Wulung No. 2,Bambu Apus,Cipayung,80,10,"Maheswari, M.Pd",021 8446260,B,-6.315093,106.896744
+20103200,SMA Pusaka I,Jl. Taruna Pahlawan Revolusi,Pondok Bambu,Duren Sawit,643,34,,021 8617192,A,-6.238693,106.894646
+20103202,SMA Muhammadiyah 11,Jl. Balai Pustaka Barat No. 2,Rawamangun,Pulo Gadung,195,21,Drs. Slamet Sutopo,021 4700659,A,-6.200347,106.883018
+20103203,SMA Don Bosco 2,Jl. Pulo Mas Barat V,Kayu Putih,Pulo Gadung,483,37,"Drs. F.X.Sulistiyono, M.M.",021 4714863,A,-6.176762,106.878998
+20103204,SMA Diponegoro 2,Jl. Kayu Tinggi,Cakung Timur,Cakung,316,22,"HJ. LILIS ASSIYAH, S.Pd",021 4602291,A,-6.179810,106.947922
+20103205,SMA Diponegoro 1,Jl. Sunan Giri No. 5,Rawamangun,Pulo Gadung,420,42,Hanny Atie Sumarni S.Pd,021 4757826,A,-6.195648,106.883064
+20103206,SMA Dian Persada,Jl. Cipinang Baru I No.21,Cipinang,Pulo Gadung,72,12,"Heru Prasetyo, S.Pd",021 47863661,B,-6.203819,106.890915
+20103208,SMA Dewi Sartika YBW,Jl. Kebon Nanas Utara II/23,Cipinang Cempedak,Jatinegara,114,18,Drs. M.G. Karyandra. A,021 8569429,B,-6.229438,106.871246
+20103210,SMA Corpatarin,Jalan Raya Pondok kopi No.87,Pondok Kelapa,Duren Sawit,46,15,,021 8632953,A,-6.227315,106.943832
+20103212,SMA Cahaya Sakti,Jl. Otista I No. 11,Bali Mester,Jatinegara,180,23,"Cecylia,S.Pd",021 8507577,A,-6.322123,106.888046
+20103213,SMA Budi Mulia Utama,Jl. Rawa Jaya No. 35,Pondok Kopi,Duren Sawit,191,14,,021 8646316,A,-6.235569,106.943619
+20103214,SMA Budhi Warman II,Jl. Raya Bogor Km. 28,Pekayon,Pasar Rebo,647,38,"Drs. Marzuqi, M.Si",021 8711833,A,-6.340680,106.864960
+20103215,SMA Budhi Warman 1,Jl. Raya Bogor Km.19,Kramat Jati,Kramat Jati,130,36,,021 8096069,A,-6.279105,106.870399
+20103216,SMA Budhaya II St. Agustinus,Jl. Raya Radin Inten II,Duren Sawit,Duren Sawit,317,21,"DRS. LEOCARDIA SUPARMAN, M.M",021 8630746,A,-6.229640,106.922424
+20103218,SMA Budaya,Jl. Dermaga Baru Klender,Klender,Duren Sawit,8,12,"Nuryahya, M.MPd",021 8613152,B,-6.218961,106.906700
+20103219,SMA Fons Vitae 1,Jalan Matraman Raya 129,Pal Meriem,Matraman,552,42,"Sr. M. THERESIE,OSF, S.Pd.M.Pd",021 8510733,A,-6.208660,106.859673
+20103220,SMA Fransiskus 2,Jl. Bangunan Barat No. 29,Kayu Putih,Pulo Gadung,49,10,Drs. Gunawan Purbana,021 4759869,A,,
+20103223,SMA Labschool Jakarta,Jl. Pemuda Komplek Uiversitas Negeri Jakarta,Rawamangun,Pulo Gadung,764,55,"Suparno, S.Pd",021 47860038 Ext. 111,A,-6.193447,106.880714
+20103224,SMA Kristen Berkat,Jl. Jatinegara Timur No. 89,Bali Mester,Jatinegara,23,10,MIAN NAULI. SH,021 8197105,B,-6.222415,106.868279
+20103227,SMA KAPIN,Jl. Raya Kalimalang,Pondok Kelapa,Duren Sawit,48,14,DRA. JAMILAH,021 8651158,A,-6.248900,106.938202
+20103228,SMA K7 BPK Penabur,Jl. Cipinang Indah 2,Pondok Bambu,Duren Sawit,666,60,"SIWI TRI WAHYUNINGTYAS, M.Pd.",021 86606614,A,-6.236859,106.893112
+20103229,SMA Jakarta Raya,Jl. Raya Pondok Gede No. 36,Lubang Buaya,Cipayung,22,13,Drs. Soleh,021 8407052,B,-6.288590,106.901001
+20103230,SMA Islam PB. Soedirman,Jl. Raya Bogor Km. 24,Cijantung,Pasar Rebo,489,47,"Drs.H.SYAMSUDDIN HASIBUAN,MM",021 8400387,A,-6.314126,106.862289
+20103231,SMA Malahayati,Jl. Bima No.3,Cijantung,Pasar Rebo,291,17,"Alip Arodabiro, M.Pd",021 8701743,A,-6.190000,106.510002
+20103235,SMA Al Qudwah,Jl.Kayu Tinggi No.58,Cakung Timur,Cakung,41,14,"RIFAID, S.Pd, MM",021 92149753,C,-6.170252,106.949577
+20103238,SMA Slamet Riyadi,Jl. Raya Bogor Km. 24,Cijantung,Pasar Rebo,462,22,"MB. NINA DWI E.P, DRA",021 8403545,A,-6.195168,106.852112
+20103240,SMA BPS & K,Jl. Bina Karya No. 2,Pondok Kopi,Duren Sawit,201,11,Drs. MARYANTO,021 8648268,A,-6.230670,106.936569
+20103241,SMA Yake,Jl.Raya Jatinegara Timur No. 61-65,Rawa Bunga,Jatinegara,203,17,Nurkaya Sitompul,021 85914499,C,-6.222008,106.868195
+20103256,SMA Negeri 99,Jl. Cibubur II,Cibubur,Ciracas,718,62,"Drs.SUCIPTO,M.Si",021 8700979,A,-6.347387,106.873474
+20103257,SMA Negeri 98,Jl. Jaha No.1,Kalisari,Pasar Rebo,992,56,HERMAN SYAFRI,"021 8714579, 021 8708519",A,-6.332400,106.857300
+20103258,SMA Negeri 93,Jl. Raya Bogor Komplek Paspampres,Kampung Tengah,Kramat Jati,747,42,"Dra. Niken Irianti, M.Pd",021 8402939,A,-6.292188,106.867332
+20103278,SMA Negeri 91,Jl. Lembah Lontar,Pondok Kelapa,Duren Sawit,426,52,Drs. DADANG HERMAWAN,021 8640063,A,-6.238631,106.932434
+20103279,SMA Negeri 9,Jl. SMU Negeri 9,Kebon Pala,Makasar,745,49,"Dra. Hj. Animah, M.Pd",021 8005964,A,-6.258708,106.881409
+20103280,SMA Negeri 36,Jl. Perhubungan Raya Rawamangun,Jati,Pulo Gadung,871,71,,021 4893358,A,-6.199171,106.899094
+20103281,SMA Negeri 31,Jl. Kayu Manis Timur,Utan Kayu Selatan,Matraman,781,63,"Drs. Burhanuddin, M.Pd",021 8508665,A,-6.201973,106.864441
+20103282,SMA Negeri 22,Jl. Kramat Asem,Utan Kayu Selatan,Matraman,359,48,"Dra Hj.SRI SARIWARNI, M.Pd.",021 8563352,A,-6.185611,106.870773
+20103283,SMA Negeri 21,Jl. Tanah Mas Raya No. 1,Kayu Putih,Pulo Gadung,791,51,"Fatma Erlinda, S.Pd",021 4895164,A,-6.162401,106.889313
+20103284,SMA Negeri 14,Jl. SMA Barat,Cililitan,Kramat Jati,754,55,"Dra. Dumaria Simanjuntak, M.Hum",021 8090296,A,-6.231347,106.864594
+20103285,SMA Negeri 12,Jl. Pertanian,Klender,Duren Sawit,649,42,"Drs. Gunanto, M.Si",021 8615180,A,-6.214586,106.897964
+20103286,SMA Negeri 113,"Jl. Albaidho I, Monumen Pancasila Sakti",Lubang Buaya,Cipayung,1037,59,"Drs. H. Syaiun Amin, MM",021 8408034,A,-6.292710,106.903008
+20103287,SMA Negeri 11,"Jl. P. Komarudin I, Komp. Pendidikan",Pulo Gebang,Cakung,430,40,Dra. Sofiah Riski,021 4802080,A,-6.193462,106.950821
+20103288,SMA Negeri 107,Jl. Rawa Badung,Jatinegara,Cakung,719,45,"Drs. Kristian M. Tambunan, S.Kom",021 4615738,A,-6.205728,106.925209
+20103289,SMA Negeri 106,Jl. Gandaria I,Pekayon,Pasar Rebo,748,43,,021 8701692,A,-6.346350,106.860092
+20103290,SMA Negeri 105,Jl. Usman,Kelapa Dua Wetan,Ciracas,495,49,"Drs. Imam Prasaja, M.Si.",021 8719206,A,-6.319393,106.883186
+20103291,SMA Negeri 104,Jl. H. Taiman Barat,Gedong,Pasar Rebo,849,53,"M. Musyafa', S.Pd.I",021 87795101,A,-6.300600,106.862747
+20103292,SMA Negeri 103,Jl. Mawar Merah Perumnas Klender,Duren Sawit,Duren Sawit,716,51,"NIYATA SIRAT, S.Pd",021 8622372,A,-6.212234,106.938118
+20103293,SMA Negeri 102,Jl. Kayutinggi,Cakung Timur,Cakung,751,43,"RIDOAN, MM","021 4604674, 021 46827360",A,-6.167233,106.950645
+20103294,SMA Negeri 100,Jl. Persatuan 2,Cipinang Besar Selatan,Jatinegara,642,48,"Drs. Mukmin Jauhari, M.Pd.",021 8500881,A,-6.229331,106.882317
+20103295,SMA YP IPPI,Jl. Raya Penggilingan Komp. Aneka Elok,Penggilingan,Cakung,193,22,"Asmiliyah, Spd",021 48703207,A,-6.191480,106.934731
+20103296,SMA Negeri 39,Jl. RA. Fadillah,Cijantung,Pasar Rebo,718,79,"HORALE TUA SIMANULLANG, SPd, MM",021 8400278,A,-6.315981,106.848534
+20103297,SMA Negeri 42,Jl. Rajawali,Halim Perdana Kusumah,Makasar,855,53,"Drs. Sonny Juhersoni, M.Pd",021 8093926,A,-6.256190,106.892761
+20103298,SMA Negeri 44,Jl. Delima IV Perum Klender,Malaka Sari,Duren Sawit,755,42,,021 8615286,A,-6.215306,106.926987
+20103299,SMA Negeri 89,Jl. Kayu Tinggi,Cakung Timur,Cakung,557,46,RUDI GUNADI,021 4604602,A,-6.161718,106.944931
+20103300,SMA Negeri 88,Jl. Sawo Indah,Baru,Pasar Rebo,572,46,"SUSILA HARTONO, M.Pd.",021 8701460,A,-6.327700,106.846878
+20103301,SMA Negeri 81,Jl. Kartika Eka Paksi KPAD Jatiwaringin,Cipinang Melayu,Makasar,864,56,"Drs. SHOHIBUL BAKHRI, MM",021 8629940,A,-6.250331,106.917648
+20103302,SMA Negeri 76,Jl. Tipar Cakung,Cakung Barat,Cakung,643,41,"Drs. H. Sukarmo, M.Pd",021 4602500,A,-6.140555,106.933258
+20103303,SMA Negeri 71,Jl. H. Dogol Kav. TNI-AL Duren Sawit,Duren Sawit,Duren Sawit,653,50,"Hj. WILIN MURTANTI, M.Pd","021 8614112, 86612614",A,-6.221108,106.912659
+20103304,SMA Negeri 67,Jl. Skadron Halim Perdanakusuma,Halim Perdana Kusumah,Makasar,851,49,"Drs. SUKAWI, M.Pd",021 8090386,A,-6.250459,106.882446
+20103305,SMA Negeri 64,Jl. Raya Cipayung,Cipayung,Cipayung,752,58,"Drs. Sri Rejoko, M.Pd",021 8444750,A,-6.308474,106.889999
+20103306,SMA Negeri 62,Jl. Raya Bogor Km. 20,Kramat Jati,Kramat Jati,540,39,Dra. Hj. ELIA ZULFA,021 8091745,A,-6.257967,106.865967
+20103307,SMA Negeri 61,Jl. Taruna Pahlawan Revolusi,Pondok Bambu,Duren Sawit,647,35,"Drs. Danu, MM",021 8617255,A,-6.238375,106.896263
+20103308,SMA Negeri 59,Jl. Bulak Timur I No.10-11,Klender,Duren Sawit,751,50,SRI RUKMINI SATITI,021 8614101,A,-6.216234,106.908142
+20103309,SMA Negeri 58,Jl. Raya Ciracas No. 2,Ciracas,Ciracas,469,57,"Drs. UMARYADI, MM.",021 8710377,A,-6.277761,106.871460
+20103310,SMA Negeri 54,Jl. Jatinegara Timur IV,Rawa Bunga,Jatinegara,862,53,"ACEP MAHMUDIN, S.Pd.",021 8194271,A,-6.220532,106.870834
+20103311,SMA Negeri 53,Jl. Cipinang Jaya 2b,Cipinang Besar Selatan,Jatinegara,755,45,"Dra. Dumaria Simanjuntak,M.Hum",021 8194415,A,-6.220900,106.883194
+20103312,SMA Negeri 51,Jl. Batu Ampar III,Batu Ampar,Kramat Jati,846,57,"Drs. Dudung Abdul Kodir, M.Si",021 8093125,A,-6.267011,106.863129
+20103313,SMA Negeri 50,Jl. PLN CIPINANG MUARA 3,Cipinang Muara,Jatinegara,747,40,"MOCHAMAD ARIF NOORYANTO, S.Pd",021 8195639,A,-6.205749,106.906731
+20103314,SMA Negeri 48,Jl. Pinang Ranti II No.1,Pinang Ranti,Makasar,860,57,"Acah Rianto, S.Pd",021 8006204,A,-6.286892,106.883018
+20103316,SMA Bina Pangudi Luhur,Jl. Kramat Asem Raya No.54,Utan Kayu Selatan,Matraman,223,24,"Sukardi, SE, MM.",021 8563339,A,-6.203715,106.870918
+20103403,SMA Bina Dharma,Jl. Raya Ciracas No. 39 Rt. 5/6,Ciracas,Ciracas,506,44,Dra. TRI WINARNI,021 8712207,A,-6.327591,106.884766
+20103424,SMA Arena Siswa II,Jl. Kramat Asem Raya No.46,Utan Kayu Selatan,Matraman,9,12,,021 25999635,C,-6.204192,106.871925
+20103425,SMA Angkasa 2,Jl. Avia Komp. Skadron,Halim Perdana Kusumah,Makasar,631,43,Drs. H. ABDUL MUKTI AS.MM,021 8001532,A,-6.263086,106.883583
+20103426,SMA Angkasa I,Jl. Trikora Raya,Halim Perdana Kusumah,Makasar,354,34,Drs. H. Abdul Mukti AS.MM.,021 8001055,A,-6.265452,106.885635
+20103427,SMA Al-Hikmah,Jl. Jati Barang V/40,Rawamangun,Pulo Gadung,32,17,"Nyayu Aneu Erliansyah,S.Pd","021 47862468, 021 4894071",B,-6.191792,106.900734
+20103428,SMA Al- Ghurabaa,Jl. Tenggiri Raya No. 47,Rawamangun,Pulo Gadung,108,18,"Azwar Rasyidin, M. Pd.I.",021 47865205,B,-6.199204,106.891968
+20103429,SMA Adi Luhur,Jl. Condet Raya No.4,Balekambang,Kramat Jati,119,22,Verawati. Ernana. S.Pd,021 87794330,A,-6.293026,106.855621
+20103430,SMA PSKD 2,Jl. Slamet Riyadi No.3,Kebon Manggis,Matraman,72,23,DRA. ARI KRISTIANTINI,021 8580342,A,-6.211819,106.858765
+20103431,SMA I Cawang Baru,Jl. Cawang Baru No. 543,Cipinang Cempedak,Jatinegara,370,24,"Dedi Sukmana Mulyadi, SH","021 8503121, 021 85916831",A,-6.242610,106.870361
+20104405,SMA Al Kamal,Jl. Al.Kamal Kedoya No.2,Kedoya Selatan,Kebon Jeruk,148,18,"Dani, S.E, M.Pd",021 98566195,A,-6.179860,106.752342
+20104407,SMA Bukit Sion,Jl. Taman Kebon Jeruk Blok GA 1,Srengseng,Kembangan,9,17,"Andy Koeswandy, S.SI., MA","021 58904181, 021 58904182, 021 58904183",A,-6.200121,106.744469
+20104408,SMA Bina Bangsa School (Junior College School),Jl. Arjuna Selatan Kav. 87,Kebon Jeruk,Kebon Jeruk,108,1,Richard,021 5328833,A,,
+20104409,SMA Cahaya Fadilah,Jl. Lingkar Luar Barat,Duri Kosambi,Cengkareng,133,19,"Muhammad Syahril, S.Pd","021 5449970, 021 92288463",B,-6.175328,106.718620
+20104410,SMA Global Sevilla Puri Indah,Jl. Kembangan Raya Blok JJ No. 1,Kembangan Selatan,Kembangan,0,15,Stanislaus Ola,021 5806699,Tidak Terakreditasi,-6.177359,106.746117
+20104411,SMA Duta Bangsa,Jl. Kapuk Raya Gang Masjid No. 71,Kapuk,Cengkareng,73,10,"Ade Saripudin, S.Pd",021 93882484,B,-6.131013,106.743469
+20104412,SMA Dharma Jaya,Jl. Polri Blok D XV/1,Jelambar,Grogol Petamburan,157,13,"Drs. H.Y. Edy Susanto, MM.",021 5658159,A,-6.155982,106.785896
+20104413,SMA Dian Harapan,Jl. Bedugul No. 1 Daan Mogot Baru,Kalideres,Kalideres,474,23,Puni Rumanti,"021 54375661, 021 54375662, 021 54375663, 021 54375664, 021 54375665, 021 54375666",A,-6.147639,106.708015
+20104414,SMA Dian Kasih,Jl. Perum Citra 5 blok H 1,Pegadungan,Kalideres,80,18,"Ruth Maria Maitimu, S. Pd.",021 55951782,A,-6.831600,106.415665
+20104416,SMA Impian Bunda,Jl. Flamboyan Utama III Blok C7 No. 1 A,Duri Kosambi,Cengkareng,66,15,"Zulfikar,SE","021 54372162, 021 5410742",B,-6.172685,106.712608
+20104417,SMA Josua,Jl. C.Kota Bambu Utara II No. 8,Kota Bambu Utara,Palmerah,2,17,"Drs. Abdurrafiq, M.Pd",021 5638181,B,-6.185529,106.807281
+20104419,SMA Kristen Tiara Kasih,Jl. Dharma Raya Blok C1 TSI,Semanan,Kalideres,195,14,"Robby S.E Jacob, S.E., M.Si.",021 54377157,A,-6.164199,106.724831
+20104421,SMA Kristen Abdi Siswa,Jl. Patra Tomang Raya No. 1,Duri Kepa,Kebon Jeruk,186,15,"Maria Siwi Karyati, S.Pd",021 5659055,A,-6.175565,106.775734
+20104422,SMA Katolik Bintang Kejora,Jl. Taman Cengkareng Indah 129,Kapuk,Cengkareng,113,20,"Sr.Paulina Lintje Ponomban ,JMJ.M.Pd",021 5457160,A,-6.146800,106.747849
+20104424,SMA Kristen IPEKA Tomang,Jl. Green Ville Blok D,Kebon Jeruk,Kebon Jeruk,237,32,"Juni Isgiartati, S.Pd",021 5656034,A,-6.169501,106.778961
+20104425,SMA Kristen Immanuel,Jl. Al Amanah Raya A 145 A,Wijaya Kusuma,Grogol Petamburan,27,13,Rasman Banjarnahor,021 5633762,B,-6.157612,106.779320
+20104426,SMA Kristen Kalam Kudus 2,Jl.mahoni hijauV.Komp.Perum Kosambi Baru Blok F6/1,Duri Kosambi,Cengkareng,62,22,"Ricardo Marpaung, M.Pd",021 5451107,A,-6.171381,106.715950
+20104427,SMA Kristen Kalam Kudus 1,Jl. Tangkilio Timur No. 48-49,Tangki,Taman Sari,22,20,"Ferry Donald Onibala, ST",021 6295381,B,,
+20104430,SMA Kristen Petra,Jl. Taman Alfa Indah Blok A 11,Joglo,Kembangan,21,6,"Binaria Aritonang, S.P, M.Si",021 5841944,A,-6.175208,106.788841
+20104432,SMA Katolik Sang Timur,Jl. Karmel Raya No. 2,Kebon Jeruk,Kebon Jeruk,434,31,"Sr. Marsella Prihartanti PIJ, M.Pd.",021 5302256,A,-6.189925,106.780045
+20104433,SMA Muhammadiyah 15,Jl. Anggrek Neli Murni Blok B-C,Kemanggisan,Palmerah,158,19,"H. Asrunnas Imran, M.Pd",021 5364464,A,-6.186991,106.795326
+20104434,SMA Nasional Nusantara,Jl. Cendrawasih 2 No.I,Cengkareng Barat,Cengkareng,0,15,MAWI DJAYADIH,021 5457149,B,-6.143729,106.725952
+20104436,SMA Pelita IV,Jl. Pos Duri Raya No. 23-29,Duri Utara,Tambora,123,18,"Rambat Mursono.,Drs","021 6314072, 021 98127322",A,-6.156040,106.801842
+20104437,SMA Pelita Kudus,Jl. Indraloka No.33a,Wijaya Kusuma,Grogol Petamburan,40,12,"DR (c) Ady Lesmana, S.E, M.Pd.",021 5658745,B,-6.156905,106.776398
+20104438,SMA Sumpah Pemuda,Jl. Raya Joglo No. 36,Joglo,Kembangan,259,17,"Rusdi, S.PdI.",021 5862708,A,-6.220805,106.734665
+20104439,SMA Tunas Muda,Jl. Meruya Utara No. 71,Meruya Utara,Kembangan,181,13,Agung Pujisusilo Wardoyo,021 5870329,A,-6.192049,106.727104
+20107185,SMA Negeri 69 Pulau Pramuka,Pulau Pramuka,Pulau Panggang,Kepulauan Seribu Utara,500,29,FIRDAUS,021 70611769,A,-6.112904,106.745514
+20107191,SMA IT Al-Halimiyah,Jl. Robusta Raya No. 31,Pondok Kopi,Duren Sawit,53,19,ABD. ROSYID. S.Ag,021 86601447,A,-6.224633,106.946701
+20107193,SMA Katolik Nusa Melati,Jl. Raya Cipayung Setu No.6,Cipayung,Cipayung,67,11,Yuliana Evita,021 8444422,C,-6.330345,106.903992
+20107194,SMA Nahdhatul Wathan,Jl. Raya Penggilingan,Penggilingan,Cakung,68,18,"MUSLIHAN HABIB, SS, M.Ag",021 46820788,A,-6.247729,106.882500
+20107199,SMA Pratama,Jl. H. Usman No. 71,Kelapa Dua Wetan,Ciracas,61,7,,021 44746461,Tidak Terakreditasi,-6.332518,106.883499
+20107232,SMA ACS Jakarta,Jl. Bantar Jati Setu,Bambu Apus,Cipayung,0,39,"Capri A. D. Anjaya, S.Pd.M.Hum","021 84597175, 021 84597176",A,-6.313299,106.920631
+20107249,SMA Budi Mulia,Jl. Mangga Besar Raya No. 135,Mangga Dua Selatan,Sawah Besar,434,31,,021 6295942,A,-6.149519,106.825279
+20107250,SMA PSKD Mandiri,Jl. GSSY Ratulangi No. 14,Gondangdia,Menteng,25,6,,021 3924384,A,,
+20107251,SMA Universal,Jl. Ruas D7 Blok D6 No. 2,Kebon Kosong,Kemayoran,76,18,"Diana Noor, S.Pd",021 6542654,A,-6.150478,106.850960
+20107269,SMA Al Chasanah,Jl. Tanjung Duren Barat 3/1,Tanjung Duren Utara,Grogol Petamburan,248,20,SUYANTO,021 5637640,A,-6.170000,106.779999
+20107274,SMA 17 Agustus 45,Jl. Tebet Dalam III.A,Tebet Barat,T e b e t,7,20,Drs. EDDY. J.D. SONDAKH,021 8298669,A,-6.229851,106.857010
+20107275,SMA 28 Oktober 1928,Jl. Mampang Prapatan XI,Tegal Parang,Mampang Prapatan,96,17,Ahmad Fauzi. S.Pd,021 7940740,A,-6.246096,106.842125
+20107276,SMA Al Azhar Syifa Budi,Jl. Kemang Raya No.7,Bangka,Mampang Prapatan,45,25,"Drs. Widada, M.Pd.",021 71793333,A,-6.254838,106.810860
+20107277,SMA Al Izhar,Jl. RS.Fatmawati Kav. 49,Pondok Labu,Cilandak,286,36,Dra. Aykah,021 7695542,A,-6.310494,106.791969
+20107278,SMA Asisi,Jl. H. Ramli,Menteng Dalam,T e b e t,162,22,Maria Immaculata Gunarwati,021 8354509,A,-6.231481,106.842316
+20107279,SMA Islam As-syafiiah 01,Jl. Bukit Duri Selatan No. 29,Bukit Duri,T e b e t,246,20,DRS. HELMI FUAD,021 8302342,B,-6.220259,106.851021
+20107280,SMA Bakti Idhata,Jl. Melati 25,Cilandak Barat,Cilandak,426,23,H.Tatang Sutarsa,021 7509665,A,-6.284000,106.794373
+20107281,SMA Bakti Mulya 400,Jl. Lingkar Selatan,Pondok Pinang,Kebayoran Lama,304,34,R. Saiful Achmad S.Pd,021 75909352,A,-6.284517,106.772675
+20107283,SMA Bina Nusantara,Jl. Sultan Iskandar Muda G.8,Grogol Selatan,Kebayoran Lama,0,14,Daru Kabeka Janarto,021 7243663,A,-6.250712,106.781883
+20107284,SMA Al-Kautsar,Jl. Jembatan Selatan No. 6,Pulo,Kebayoran Baru,45,18,Dwi Setyorini,021 72796383,B,-6.252592,106.795509
+20107285,SMA Borobudur,Jl. Raya Cilandak KKO,Cilandak Timur,Pasar Minggu,71,16,Dra. Hj.Rahmawati M.,021 7827316,A,-6.307422,106.813164
+20107286,SMA Budi Waluyo,Jl. Cisanggiri III/15 Blok Q4,Petogogan,Kebayoran Baru,18,18,"Drs. Ari Gunawan, M.Pd","021 98114712, 021 7254325",A,-6.241512,106.812775
+20107287,SMA Bunda Kandung,Jl. Pol. Tangan Raya 41,Pejaten Timur,Pasar Minggu,250,12,Drs. Madhari,"021 7806208, 021 7800694",A,-6.296940,106.843071
+20107288,SMA Cenderawasih 1,Jl. RS. Fatmawati Komp. Deplu,Gandaria Selatan,Cilandak,308,23,Drs. Irian Pribadi,"021 7691715, 021 7503154",A,-6.269337,106.796951
+20107289,SMA Charitas,Jl. Mawar Indah No.75,Cilandak Barat,Cilandak,0,20,"Sr. M.Paula,FCh.S.Pd.",021 7650988,A,-6.296478,106.772163
+20107290,SMA Cita Buana,Jl. Paso No. 84,Jagakarsa,Jagakarsa,117,45,"Melany Kusumawati, S.Pd., M.S.",021 7820088,A,-6.315647,106.814636
+20107291,SMA Darul Maarif,Jl. RS. Fatmawati No. 45,Cipete Selatan,Cilandak,189,18,"Bahriadi, S.Pdi",021 7694127,A,-6.267480,106.797920
+20107292,SMA Darunnajah,Jl. Ulujami Raya No. 86,Pesanggrahan,Pesanggrahan,351,34,"Muchtar Ghozali, S.H.I.",021 7376344,A,-6.247070,106.761620
+20107294,SMA Dewi Sartika,Jl. Tebet Barat Dalam No.39,Tebet Barat,T e b e t,139,10,IR. EDI PURNAMA. MM,021 8294942,A,-6.237189,106.847107
+20107295,SMA Dharma Karya,Jl. Melawai XII No. 2 Kav. 207 A,Melawai,Kebayoran Baru,334,22,,021 7398576,A,-6.247200,106.799896
+20107296,SMA El Syifa,Jl. R.M Moch Kahfi I,Ciganjur,Jagakarsa,23,7,,021 92422213,Tidak Terakreditasi,-6.334628,106.806984
+20107297,SMA Fatahillah,Jl. Raya Buncit No. 67,Kalibata,Pancoran,173,17,"H. Maskuri, S.Ag",021 7940492,A,-6.274151,106.831825
+20107298,SMA Gitta Kirtti 3,Jl. BRI Radio Dalam,Gandaria Utara,Kebayoran Baru,182,16,"Ida Farida, S. Ag.",021 27517225,A,-6.258927,106.791710
+20107299,SMA Gonzaga,Jl. Pejaten Barat 10 A,Pejaten Barat,Pasar Minggu,709,48,"Leonardus E.B. Winandoko, SJ.",021 7804986,A,-6.278300,106.822807
+20107300,SMA Hang Tuah 1,"Jl. Ciledug Raya, Komp. Seskoal",Kebayoran Lama Utara,Kebayoran Lama,413,38,"Harry R. Adam, S.IP",021 7229860/61,A,-6.239806,106.773582
+20107301,SMA Harnasto Inst.,Jl. Cidodol Raya No. 40,Grogol Selatan,Kebayoran Lama,29,11,"Mardiyemi, S.Pd",021 7224830,B,-6.228428,106.773659
+20107302,SMA Islam Avicenna Jagakarsa,Jln. Moch Kahfi II No. 66,Jagakarsa,Jagakarsa,171,21,"MAMAN,S.Pd","021 78884887, 021 78884936, 021 78884942",A,-6.336075,106.833290
+20107303,SMA Is. Harapan Ibu,"Jl. H. Banan No. 1, Pondok Pinang",Pondok Pinang,Kebayoran Lama,16,14,Hj Neneng Junaisih,021 75911228,A,-6.272849,106.773872
+20107304,SMA Islam Al.Azhar 1,Jl. Sisingamangaraja,Selong,Kebayoran Baru,201,24,Drs. Ngadiman,"021 7200159, 021 7396232 Ext. 1",A,,
+20107305,SMA Islam Al Azhar 2,Jl. Siaga Raya,Pejaten Barat,Pasar Minggu,371,26,"Abdulah S.Pd, MSi",021 7971445,A,-6.270072,106.837646
+20107306,SMA Islam Al.Azhar 3,Jl. Sisingamangaraja,Petogogan,Kebayoran Baru,172,32,"Drs. Nuzuar, M.Pd.",021 7269935,A,-6.233921,106.800011
+20107307,SMA Islam Al Kholidin,Jl. Iskandarsyah Raya Blok O,Melawai,Kebayoran Baru,26,24,"Hj. IKA RACHMAWATI, S.Pd",021 7234378,A,-6.246727,106.805756
+20107308,SMA Kartika X-1,Jl. Raya Kodam Bintaro No. 53,Pesanggrahan,Pesanggrahan,427,33,"Drs. Sukamto, MM",021 7341806,A,-6.260500,106.759644
+20107309,SMA Kartika VIII-1,Jl. Seroja Srengseng Sawah,Srengseng Sawah,Jagakarsa,0,20,Drs.Dulmanan,021 7866334,A,-6.343131,106.831360
+20107310,SMA Kel. Widuri,Jl. Gunung Balong I No. 2,Lebak Bulus,Cilandak,132,29,Drs. Budhy Sasmito,021 7699146,A,-6.303739,106.787895
+20107311,SMA Kem. Bhayangkari,"Jl. Ampera Raya, Komplek POLRI Ragunan",Pasar Minggu,Pasar Minggu,375,33,"Muryanto, M.Pd.",021 7807652,A,-6.283111,106.819489
+20107312,SMA Kharismawita,Jl. Swadaya II No. 30,Tanjung Barat,Jagakarsa,102,20,Gumin Has S.Pd,021 7801508,B,-6.299719,106.845901
+20107313,SMA Labschool Kebayoran,Jl. KH. Ahmad Dahlan No. 14,Kramat Pela,Kebayoran Baru,733,48,Risang Danardana L,021 7398935,A,-6.244912,106.791183
+20107314,SMA Muhammadiyah 3,Jl. Limau I/2 Blok B,Gandaria Utara,Kebayoran Baru,349,29,"Achmad Saifudin, S.Pd",021 7393363,A,-6.248052,106.790901
+20107315,SMA Muhammadiyah 18,Jl. Panjang Cipulir,Cipulir,Kebayoran Lama,237,30,"Drs.Ahmad Jahid, MA",021 7229192,A,-6.234492,106.771683
+20107317,SMA Muhammadiyah 5,Jl. Tebet Timur Raya 565,Tebet Timur,T e b e t,374,31,"Moh. Ridwan,S.Pd.I",021 8351303,A,-6.239200,106.862122
+20107318,SMA Muttaqien,Jl. Asem Baris Raya 5,Kebon Baru,T e b e t,90,16,"M. Ambardi, SE",021 8302859,B,-6.241586,106.860191
+20107319,SMA Negeri 28,"Jl. Raya Ragunan, Pasar Minggu",Jati Padang,Pasar Minggu,755,40,"Dra. Hj. Endang Sri Hartini, M.Si",021 7806293 Ext. 0,A,-6.281856,106.832741
+20107320,SMA Negeri 79,Jl. Menteng Pulo Ujung,Menteng Atas,Setia Budi,481,40,"Satya Budi Aprianto, S.Si.",021 8357087,A,-6.209162,106.838554
+20107322,SMA Pangudi Luhur,Jl. Brawijaya IV No. 47,Pulo,Kebayoran Baru,113,24,"BR. TITUS TOTOK TRI NUGROHO FIC, ST","021 7243556, 021 7232301",A,-6.253653,106.806381
+20107323,SMA Pattimura,Jl. Jagakarsa Raya No. 88,Jagakarsa,Jagakarsa,0,14,"Desy Sri Andayawaty, S.Pd",021 7863576,B,-6.326661,106.819138
+20107325,SMA Perg. Cikini,Jl. Duren Tiga Raya,Duren Tiga,Pancoran,34,22,DRS. FARID SYAMSUL BACHRI,021 7991458,A,-6.255711,106.827629
+20107326,SMA PGRI 3,Jl. Pondok Labu Ib No. 29A,Pondok Labu,Cilandak,148,18,Dra. Zumaroh,021 7650039,A,-6.310255,106.802177
+20107327,SMA PSKD 4,Jl. Panglima Polim II No. 51A,Petogogan,Kebayoran Baru,80,27,Anton,021 7243957,A,-6.247276,106.801323
+20107328,SMA Purnama,Jl. Tirtayasa Lima,Selong,Kebayoran Baru,6,9,"Drs. St, ISRIN L, CHANDRA",021 7246827,B,-6.243752,106.806343
+20107330,SMA Seruni-Don Bosco,Jl. TB. Simatupang,Cilandak Barat,Cilandak,108,16,DRS. GATOT DWI ARGA PARACU,021 7660717,A,-6.291664,106.793373
+20107331,SMA Suluh,Jl. Palapa Raya No. 1,Pasar Minggu,Pasar Minggu,784,51,Saifuddin,021 7801607,A,-6.288340,106.842094
+20107332,SMA Sumbangsih,Jl. Ampera Raya No. 3-4,Cilandak Timur,Pasar Minggu,332,27,"AKHMAD NIDOM, Drs",021 7812569,A,-6.290317,106.817390
+20107334,SMA Tarakanita I,Jl. Pulo Raya IV/17,Petogogan,Kebayoran Baru,227,32,"Sr. Brigitta, CB",021 7393916,A,-6.241526,106.810951
+20107335,SMA Teladan,Jl. Srengseng Sawah 74,Srengseng Sawah,Jagakarsa,25,15,"U U Juma, S.Ag",021 70356411,A,-6.346983,106.822159
+20107336,SMA Triguna,Jl. Hang Lekiu 3/17,Gunung,Kebayoran Baru,137,24,Dra Hj. Meldawati,021 7244026,A,-6.234666,106.795090
+20107338,SMA Yaperjasa,Jl. Belimbing Jagakarsa,Jagakarsa,Jagakarsa,0,22,"Drs. Abdul Khair, M.Pd",021 7867622,A,-6.332798,106.823517
+20107340,SMA YASPORBI 1,Jl. Komplek Bank Indonesia Pancoran No.15A,Menteng Dalam,T e b e t,176,20,"Ir. MAMAN DARUSMAN, M.Pd.",021 8311710,A,-6.239466,106.842148
+20107341,SMA YMIK 1,Jl. Manggarai Utara VII,Manggarai,T e b e t,4,10,,021 8350808,B,-6.211210,106.852768
+20107342,SMA YMIK 2,Jl. Manggarai Utara VII,Manggarai,T e b e t,275,14,DRS. MUSTO NASUTION,021 8298238,A,-6.211203,106.852768
+20107367,SMA Al Jihad,Jl. Papanggo 1,Papanggo,Tanjung Priok,168,16,"Nurul Huda, S.Pd.I",021 2934665,B,-6.130115,106.881821
+20107368,SMA Al Khairiyah,Jl. Mindi No. 2,Lagoa,K o j a,186,22,H. SRI WAHONO,021 4374154,B,-6.115578,106.910660
+20107369,SMA Al Muhajirin,Jl. Tunda No. 20-21 Komp. Pelindo II,Rawa Badak Selatan,K o j a,45,13,,021 4303432,B,-6.214620,106.845131
+20107370,SMA Bina Tunas Bangsa,Jl. Pluit Timur Blok MM,Pluit,Penjaringan,117,22,"S Williana K, M.Pd",021 30031300,A,-6.119333,106.793915
+20107371,SMA Cahaya Kudus,Jl. Muara Karang B IX Selatan No. 129-131,Pluit,Penjaringan,73,12,"SUDARTO, S.Pd",021 6603416,A,-6.112222,106.781418
+20107372,SMA Chandra Kusuma,Perum Villa Kapuk Mas Selatan V Blok H4 No.1,Kapuk Muara,Penjaringan,46,37,"Ivawati Sirait,S.E",021 5451911,A,-6.133025,106.771637
+20107373,SMA Dharma Putra Jakarta,Jl. Swasembada Barat XI No. 92,Kebon Bawang,Tanjung Priok,186,19,"Drs. UNGKAP SIANTURI, M.Pd",021 4338183,B,-6.122607,106.887245
+20107374,SMA Dharma Satria,Jl. Teluk Indah Blok Q No.2-4,Pejagalan,Penjaringan,141,13,Drs. K. Sitepu,021 6695304,A,-6.137819,106.783592
+20107374,SMA Darma Satria Persada,Jl. Komp.Teluk Indah Blok Q No.2-4,Pejagalan,Penjaringan,162,13,Drs.K.Sitepu,021 6695304,A,-6.137818,106.783592
+20107375,SMA Dharma Suci,Jl. Jembatan III Komp. Pluit Mas Blok F No. 1-5,Pejagalan,Penjaringan,223,26,"IMELDHA PUTRIANTI, S.Ag.",021 6696437,A,-6.141038,106.790138
+20107376,SMA Gideon,Jl. Gadang No. 77,Sungai Bambu,Tanjung Priok,102,12,MARISI NAINGGOLAN,021 94023982,B,-6.127624,106.884003
+20107377,SMA Gita Kirtti II,Jl. Sunter Jaya IV/2,Sunter Jaya,Tanjung Priok,0,12,"Mujur, S.Ag.",021 6508977,A,-6.155814,106.867447
+20107378,SMA Harapan Kasih,Jl. Muara Baru Raya 5/7,Penjaringan,Penjaringan,81,14,"CHAIRIL ANWAR,S.Pd MM",021 66674786,B,-6.129880,106.797264
+20107379,SMA Hassanuddin,Jl. Rawa Badak No. 79-81,Lagoa,K o j a,24,12,ANDI ASRIL. T,021 43905137,B,,
+20107380,SMA Jubilee,Jl. Sunter Jaya I No. 1,Sunter Agung,Tanjung Priok,258,35,Budiman,021 65300300,A,-6.149766,106.858574
+20107382,SMA Kristen IPEKA Pluit,Jl. Pluit Timur Blok B Utara No. 1,Pluit,Penjaringan,249,25,DICKY HENDRAWAN,021 6613576,A,-6.121101,106.774231
+20107383,SMA Kristen IPEKA Sunter,"Jl. Baru, Sunter Agung",Sunter Agung,Tanjung Priok,416,32,Dra. Titi Sari,"021 6501078, 021 6519222",A,-6.158559,106.861877
+20107384,SMA K. Tunas Bangsa,Jl. Sunter Garden Blok C-7,Sunter Agung,Tanjung Priok,180,13,Estheria M Pakpahan S.Pd,021 65300983,A,-6.139180,106.874870
+20107385,SMA Laphat Plus,Jl. BHAYANGKARA No. 47,Tugu Utara,K o j a,67,15,"Mardiyoto, S.Pd, M.Si",021 70640483,B,-6.131930,106.913200
+20107386,SMA K. Mawar Saron,Jl. Hibrida Timr Raya,Pegangsaan Dua,Kelapa Gading,98,14,Magdalena Sugiyo,021 45843455,A,-6.146534,106.913239
+20107387,SMA Nurul Falah,Jl. Dewa Kembar Komp.TNI-AL Semper Timur,Semper Timur,Cilincing,156,18,"Iin Indriani, S.Pd.",021 4403864,A,-6.108264,106.925865
+20107388,SMA Nusantara,Jl. Kramat Jaya Gg. VIII,Semper Barat,Cilincing,86,17,Subiyarto Drs.M.Hum,021 4408882,B,-6.157059,106.925957
+20107389,SMA Permata Indah,Jl. Kamp. Gusti Blok A No.1,Pejagalan,Penjaringan,198,13,TIARMA SAMOSIR. S. PAK,021 66691488,A,-6.139652,106.778000
+20107390,SMA Saint Peter,Jl. Boulevard Timur Raya No 8,Pegangsaan Dua,Kelapa Gading,28,22,"Leo Yoseph, Drs, MM",021 4524246,A,-6.155379,106.904778
+20107391,SMA Santo Lukas I,Jl. Ancol Selatan II / 1,Sunter Agung,Tanjung Priok,1,14,Florentina Suratmi,021 6507574,A,-6.132604,106.857513
+20107393,SMA Stella Maris,Jl. Lele Blok A I Teluk Gong,Pejagalan,Penjaringan,95,15,ANDREAS WIDOSUWAHYONO,021 6600920,A,-6.130480,106.778000
+20107394,SMA Maria Della Strada,Jl. Pademangan I Gg.VIII No.18,Pademangan Timur,Pademangan,142,21,Stanislaus Sidu Niron,021 64714789,A,-6.137007,106.842422
+20107395,SMA Tanjung Priok,Jl. Mangga no. 40 Lagoa,Lagoa,K o j a,333,26,,021 43900659,A,-6.113539,106.911095
+20107396,SMA Tri Darma Budidaya,Jl. Bidara Raya Gg. G. 36,Pejagalan,Penjaringan,26,12,Drs. YASIN KARIM,021 6620766,B,-6.139931,106.788788
+20107397,SMA Wijaya,Jl. Masjid Al Barkah,Sunter Agung,Tanjung Priok,95,12,"Hj. Siti Fatimah, MA.Pd",021 6515255,A,-6.159341,106.873970
+20107398,SMA Wijaya Kusuma,Jl. Bandengan Utara No. 80,Penjaringan,Penjaringan,43,23,"RONIH, S. Ag",021 6693514,A,-6.135497,106.796997
+20107399,SMA Yanic,Jl. Teluk Semangka No. 103 Komp.BPP,Sukapura,Cilincing,92,14,"DEDE MUHAROMAH, S.Sos",0851 00739922,B,-6.141129,106.927750
+20107400,SMA Yappenda,Jl. Swasembada Timur V/10,Kebon Bawang,Tanjung Priok,494,41,,021 4300653,A,,
+20107589,SMA Global Islamic School,Jl Condet Raya No 5,Balekambang,Kramat Jati,186,22,"Firdaus Noor Farid, S.Si",021 80884510,A,,
+20107590,SMA Trampil I,Jl. Cililitan Besar,Kebon Pala,Makasar,7,13,Ahmad Zayadi,021 8003074,B,-6.262936,106.873833
+20107591,SMA Trampil II,Jl. Olahraga 2 Condet,Cililitan,Kramat Jati,63,17,"Abdul Rozak, S.IP",021 8003323,A,-6.267472,106.861504
+20108383,SMA Santa Ursula,Jl. Pos No.2,Pasar Baru,Sawah Besar,415,38,"Sr. MAGDALENA LIAN, OSU. M.Pd",021 3840915,A,-6.170000,106.830002
+20108498,SMA Advent 1,Jl. Kramat Pulo 16,Kramat,S e n e n,207,23,ROMAULI NAIBAHO S.Pd,"021 3155371, 021 3920280",A,-6.184600,106.8439
+20108499,SMA Dwisaka,Jl. Tambak No. 32,Pegangsaan,Menteng,79,13,Drs. SYAFII,021 3908366,C,-6.204909,106.849228
+20108501,SMA Hati Suci,Jl. Hati Suci No. 2,Kampung Bali,Tanah Abang,45,18,Suparmo,021 3157924,A,-6.184100,106.817299
+20108502,SMA Islam Said Na'um,Jl. K.H. Mas Mansyur No. 25,Kebon Kacang,Tanah Abang,147,22,Dra. Andriana,021 31905833,A,-6.191379,106.816498
+20108504,SMA Nasional Anglo,Jl. Rawasari Selatan No. 10 X,Rawasari,Cempaka Putih,14,18,Dra. LEVINA MAIRUHU,021 4208702,A,-6.186775,106.873177
+20108505,SMA Pembangunan 2,Jl. Pembangunan 2 No. 18,Gambir,Gambir,26,10,"TUTI TATANG,SE",021 6339274,A,-6.162702,106.817268
+20108506,SMA PGRI 15,Jl. Mutiara Karet Tengsin,Karet Tengsin,Tanah Abang,30,9,"H. Herry Ruzizoulla, SE",021 57853481,B,-6.208900,106.814697
+20108507,SMA Santo Bellarminus,Jl. Lombok No. 58,Gondangdia,Menteng,75,15,Ir. ELIZABETH ENI SURANINGSIH,021 31935157,A,-6.200000,106.800003
+20109062,SMA Mutiara Bangsa 3,Jl. Jelambar Barat III No. 5 B,Jelambar Baru,Grogol Petamburan,82,14,Drs. Rohmad,021 56940779,A,-6.145007,106.783096
+20109180,SMA Marie Joseph,Jl. Puspa Gading I Blok H2 No.10-12,Pegangsaan Dua,Kelapa Gading,135,26,"Anastasia Keranz, S.Ag","021 45876292, 021 45876293",A,,
+20109326,SMA Kasih Karunia,TAMAN PALEM LESTARI BLOK F6/21-23,Pegadungan,Kalideres,0,12,"CORNELIA CHANDRA , M.Pd",021 55956640,B,-6.172300,106.762733
+20109467,SMA Kristen IPEKA Puri Indah,Jl. Puri Indah Blok I,Kembangan Utara,Kembangan,94,32,Aang Nasrudin,"021 5809003, 021 5809004, 021 5809005, 021 5809006",A,-6.186576,106.742928
+20109491,SMA Islam Al-Ma'ruf,Jl. Raya Lapangan Tembak,Kelapa Dua Wetan,Ciracas,189,21,"ARMADA HADI, S.Ag, M.Pd",021 87710597,A,-6.351042,106.880966
+20109513,SMA High/Scope Indonesia,Jl. TB. Simatupang No. 8,Cilandak Barat,Cilandak,278,15,ETIKA HIA,021 75917888,A,-6.291935,106.794640
+20109516,SMA International Islamic High School,Jl. Rasuna Said Kav. X-2 No.4 Palma One Lt. 4,Kuningan Timur,Setia Budi,129,29,"Drs. Zerry Novian, M.Si (Ak)",021 5274030,A,,
+20109524,SMA Perguruan Rakyat I Jakarta,Jl. Yon Zikon 14,Srengseng Sawah,Jagakarsa,3,26,,021 7270207,A,-6.345313,106.826897
+20109560,SMA SIS Kelapa Gading,Jl. Pegangsaan Dua No. 83,Pegangsaan Dua,Kelapa Gading,66,,,,,,
+20109933,SMA Negeri Unggulan M. H. Thamrin,Jl. Bambu Wulung,Bambu Apus,Cipayung,232,31,"WARNOTO, M.Pd",021 84596769,A,-6.315796,106.901711
+20109971,SMA Cinta Tzu Chi,Jl. Kamal Raya Outer Ring Road No. 20,Cengkareng Timur,Cengkareng,275,23,M. Hotman Simbolon,021 54397565,A,-6.131466,106.737923
+20110265,SMA Pelita Kasih,Jln. Taman Palem Lestari Blok E9 No.1,Cengkareng Barat,Cengkareng,156,17,"LIZA SULISTYO, S.Pd",021 55952526,A,-6.117400,106.722397
+20110335,SMAK 6 Penabur,Jl. Muara Karang Blok 23 S,Pluit,Penjaringan,245,45,"SYLVIANA CHRISYAN, S.E., M.M.",021 6621932,A,-6.115177,106.774681
+20112282,SMA Chartar Buana,Jl. Rawa Bola No. 49,Kelapa Dua Wetan,Ciracas,242,11,"NIXON MARPAUNG, S.Pd",021 8711098,A,-6.349581,106.887520
+20112284,SMA SEVILLA,Jl. Pulo Mas jaya pacuan Kuda,Kayu Putih,Pulo Gadung,90,,,,Tidak Terakreditasi,,
+20112406,SMA Plus Khadijah Islamic School,Jl. Batan I No. 12,Lebak Bulus,Cilandak,74,19,"Usman, M.Pd",021 75900377,B,-6.292819,106.770798
+20112433,SMA Jakarta Islamic School,Jl. Manunggal I komplek Kodam,Cipinang Melayu,Makasar,73,10,AUP ALMAUDUDI,021 86612154,A,-6.281969,106.854858
+20112435,SMA Sinar Dharma,Jl. K.H. Moh. Mansyur No. 29,Kredang,Tambora,72,21,"Samirin, M.Pd.",021 6394636,B,-6.149403,106.807495
+20112438,SMA Citra Kasih,Jl. Citra Garden City 5 Blok H 3,Tegal Alur,Kalideres,179,15,Rohajah Ramli,021 22556531,A,-6.126417,106.705421
+20112462,SMA Bina Bangsa School,"Jl. Walet Elok 8, Blok R8 No.1",Kapuk Muara,Penjaringan,363,6,Samuel Dwioktorianto Effendy,021 5880045,Tidak Terakreditasi,,
+20112503,SMA Kristen Calvin,Jl. Industri Blok B.14 Kav. 1,Gunung Sahari Selatan,Kemayoran,170,27,"Ev. Dra. Dewi Maya M. Sianturi, M.Th.",021 65867812,A,-6.152765,106.840866
+20177804,SMAK Penabur Kelapa Gading,Jl. Boulevard Bukit Gading Raya Kav. A5-A8,Kelapa Gading Barat,Kelapa Gading,1,33,,021 45840602,A,-6.165558,106.891266
+20177805,SMAK 8 Penabur,Jl. Tanjung Duren Raya No. 4 Blok D,Tanjung Duren Utara,Grogol Petamburan,38,21,Shirley Puspitawati,021 5602042,A,-6.173462,106.788795
+20177806,SMA Taruna Persada,Jl. Masjid No. 29,Gedong,Pasar Rebo,56,18,,021 87797729,B,-6.299305,106.857834
+20177837,SMA Saint John's School,Taman Villa Meruya Blok D1-1,Meruya Selatan,Kembangan,30,16,"Ir. Paulus Pontoh, MBA",021 58902399,Tidak Terakreditasi,-6.314248,106.682938
+20177916,SMA Lentera Indonesia,Jl. Sultan Iskandar Muda No. 98,Kebayoran Lama Utara,Kebayoran Lama,35,13,"Drs.E.M.Faref,MA",021 729177,A,-6.113960,106.916992
+69754377,SMA Narada,Jl. Kosambi Baru Blok A-Ext. 1,Duri Kosambi,Cengkareng,0,27,William Widjaja,021 54377225,Tidak Terakreditasi,-6.168918,106.719749
+69755458,SMA Pelangi Kasih,"Jl. Pantai Indah Timur, Taman Grisenda Blok A1/28",Kapuk Muara,Penjaringan,215,34,RONNY DEDDY K RONDONUWU,021 5884351,Tidak Terakreditasi,-6.129984,106.753944
+69757184,SMA Kanaan Global School,Taman Surya III Jl. Boulevard L2,Pegadungan,Kalideres,69,15,Linny Andreas,021 6197250,A,-6.133696,106.716766
+69759048,SMA Bina Kusuma Mulia,Citra I Blok i-8,Kalideres,Kalideres,59,20,"Drs.George.L.Tuhumury,MPd",021 5418104,B,-6.143010,106.696411
+69762654,SMA Djuwita,Jl. Gardena Utama Raya,Kalideres,Kalideres,0,6,Nawang Kurnianingtyas,021 5415501,Tidak Terakreditasi,,
+69810047,SMA Universal,Jl. Boulevard Barat Raya No.1,Kelapa Gading Barat,Kelapa Gading,0,15,"Kimico Margaretha, S.S, S.H",021 4528121,Tidak Terakreditasi,-6.155139,106.896599
+69816348,SMA Lia Stephanie,Komplek Taman Surya V Blok EE2 No. 20-27,Pegadungan,Kalideres,106,16,"FLORENTIANUS AME, S.Pd",021 54390347,A,-6.132667,106.716408
+69829193,SMA Kristen Kasih Kemuliaan,Jl. Perumahan Taman Surya V Blok RR No. 1,Kalideres,Kalideres,40,1,dr. DAMARIS DERRY S.,"021 29670988, 021 29670989, 021 29670990",A,,
+69856892,SMA NJIS,JL. BOULEVARD BUKIT GADING RAYA,Kelapa Gading Barat,Kelapa Gading,27,7,Markus Baloun,021 45865222,Tidak Terakreditasi,,
+69873573,SMA Westin,Teluk Gong Jl. G. No. 408,Pejagalan,Penjaringan,31,9,ELFINDAH PRINCES.M. Kom.,,Tidak Terakreditasi,-6.138079,106.779381
+69874086,SMA Pelita Harapan Kemang Village,Jl. Pangeran Antasari N0. 36,Mampang Prapatan,Mampang Prapatan,57,11,Daisy Hudono,021 29056789,A,-6.262115,106.814445
+69879021,SPK Saint Peter School,Jl. Boulevard Timur Raya No. 8,Pegangsaan Dua,Kelapa Gading,9,13,"Diana Darmosaputro, S.Pd",021 4524246,Tidak Terakreditasi,-6.166757,106.915993
+69883248,SMA Raffles Christian School,Jl. Gedung Hijau Raya I No.1,Pondok Pinang,Kebayoran Lama,201,1,Tabroni,021 75903342,Tidak Terakreditasi,,
+69883577,SMA Nationalhigh Jakarta School,Jl. Raya Pos Pengumben No.41,Srengseng,Kembangan,48,11,"Simon Audry Halomoan Siagian, SH., MH",021 58902962,Tidak Terakreditasi,-6.216000,106.764000
+69888992,SMA Bunda Mulia School,JL. LODAN RAYA NO. 2,Ancol,Pademangan,78,1,Ignatius Rico Camal Fransz,021 6909742,Tidak Terakreditasi,,
+69889003,SMA New Zealand Independent School,Jl. Kemang Raya no. 70,Bangka,Mampang Prapatan,1,1,Gerald Inga Paipai Tamou,021 7183111,Tidak Terakreditasi,,
+69889089,SMA Australian Independent School,Jl. Pejaten Barat Raya No. 69,Pasar Minggu,Pasar Minggu,97,28,Paul Anthony Bawden,021 7824024,Tidak Terakreditasi,,
+69889105,SMA Mahatma Gading Intercultural,Jl. Boulevard Bgr Komp Villa Gading Indah Blok. Q,Kelapa Gading Barat,Kelapa Gading,47,18,DWITA R. VASWANI,021 45861031,Tidak Terakreditasi,,
+69917278,SMA Mentari,Jl. H. Jian No. 6,Cipete Utara,Kebayoran Baru,165,,,,,,
+69923322,SMA Raffles Christian School,Jl. Meruya Ilir No.89,Meruya Utara,Kembangan,39,,,021 5845671,Tidak Terakreditasi,,
+69939320,SMA Raffles Christian School,Jl. Gading Pelangi Indah No. 1,Pegangsaan Dua,Kelapa Gading,86,21,"Prinastining Dyah Wigati, S.Pd",021 45874222,Tidak Terakreditasi,,
+69955414,SMA EMIISc,Jl. Raya Condet,Batu Ampar,Kramat Jati,0,9,"LALU JULKARNAIN, S.Pd",021 87792556,Tidak Terakreditasi,-6.291449,106.856369
+96853555,SMA Jakarta Intercultural School,Jl. Terogong Raya No. 33,Cilandak Barat,Cilandak,139,13,Stephen John Clark,021 76925555,A,,
+NP490494,SMA Makarios,Jl. Raya Kembangan Baru No.1,Kembangan Selatan,Kembangan,0,,,021 5826967,Tidak Terakreditasi,,
+NP52511,SMA Islam Al Jabr,Jl. Bango 2 No. 30,Pondok Labu,Cilandak,47,20,Tarra Marci Abuchari,021 75913675,A,,
+NP645311,SMA JAC,Jl. Pegangsaan Dua,Pegangsaan Dua,Kelapa Gading,16,16,"Anggrarina Saputri, S.Pd",021 22860988,Tidak Terakreditasi,,
+NP683661,SMA Kairos Gracia,Citra Garden 7 Blok B 1,Kalideres,Kalideres,131,14,"Fenny Soeprijadi,S.E",021 54360630,Tidak Terakreditasi,-6.146835,106.701744
+NP774214,SMA Heritage School Jakarta,Jl. Letjen Soepomo No.34,Grogol Utara,Kebayoran Lama,0,,,021 30066858,Tidak Terakreditasi,-6.221769,106.783005
+NP916275,SMA Ichthus,Jl. H. Batong 1-1A/Jl. Caringin Barat 1,Cilandak Barat,Cilandak,33,1,Wendy Armunando,021 75908820,Tidak Terakreditasi,,
+NP933833,SMA Islam Terpadu Almaka Jakarta,Jl. Peta Selatan No.1,Kalideres,Kalideres,20,10,"Sri Hartati, M.Pd",,Tidak Terakreditasi,,
+,SMA Garuda Cendekia,Jl. Bangka VII Dalam No. 14,Pela Mampang,Mampang Prapatan,154,32,"Iwan Purnanto, S.Pd",021 71796269,A,-6.247827,106.812126
+,SMA SIS Pantai Indah Kapuk,Jl. Mandara Indah No. 4,Kapuk Muara,Penjaringan,98,15,PRESTON MICHAEL BRIAN,,A,,
